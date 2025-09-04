@@ -1,0 +1,25 @@
+.regles{
+    position: relative;
+    text-align: center;
+    margin-bottom: 150px;
+}
+.ref{
+    width: 68px;
+    height: 111px;
+}
+.RegCont{
+    background-color: #22C55E ;
+    opacity: 0.9;
+    min-width: fit-content;
+    max-width: 632px;
+    height: 210px;
+    color: white;
+    border-radius: 25px;
+    text-align: start;
+    padding-top: 15px;
+    min-height: 250px;
+
+}
+.textIn{
+    line-height: 1.7;
+}

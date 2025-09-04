@@ -1,0 +1,21 @@
+.ball{
+    width: 185px;
+    height: 85px;
+}
+.Logo{
+    display: flex;
+    flex-direction: row;
+}
+.title{
+    font-family: 'Montserrat','Courier New', Courier, monospace;
+    font-weight: bold;
+    color: white;
+}
+
+
+@media (max-width : 762px){
+    .ball{
+  width: 88px;
+  height: 42px;
+}
+}

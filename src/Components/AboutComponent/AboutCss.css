@@ -1,0 +1,29 @@
+.About{
+    position: relative;
+    text-align: center;
+    margin-bottom: 150px;
+}
+.reglesCont{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.Dinho{
+    width: 130px;
+    height: 188px;
+   position: absolute;
+   opacity: 0.43;
+     right: 5%;
+  bottom: 0;
+}
+.ball2{
+  width: 168px;
+  height: 78px;
+}
+@media (max-width : 762px){
+
+  .ball2{
+  width: 68px;
+  height: 27px;
+}
+}
