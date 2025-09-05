@@ -13,16 +13,19 @@ function AboutComp() {
         <h1 className='title mt-auto mb-2'>C’est Quoi le Jeu</h1>
         </div>
         
-        <p className='text-white aboutText'>Un duel 1v1 en 3 manches :
-            <br/>
-           - questions-réponses
-            <br/>
-            - devine le joueur
-            <br/>
-            - les enchères
-            <br/>
-             quiz, devine le joueur, question finale.</p>
-        <hr className='mt-5'/>
+        <p className='text-white aboutText'>
+         Un jeu entre amis 
+        <br/>
+         Un match se compose de 3 manches
+        <br/>
+        Celui avec le plus de points gagne.
+        <br/>
+        1V1
+        <br/>
+        Des questions de football
+          
+          </p>
+        <hr className='mt-5 line'/>
         </div>
   )
 }

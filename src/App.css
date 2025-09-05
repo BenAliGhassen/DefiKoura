@@ -8,3 +8,8 @@ body{
     #063896 77%
   ) ;
 }
+.line{
+ color: white;
+ width: 57%;
+ justify-self: center;
+}

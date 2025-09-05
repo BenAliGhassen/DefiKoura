@@ -18,7 +18,7 @@ function ReglesComp() {
                 <br/>👉 Vous n’avez qu’un seul essai.</li>
             </ol>
           </div>
-          <hr className='mt-5'/>
+          <hr className='mt-5 line'/>
     </div>
   )
 }
