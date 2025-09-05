@@ -1,7 +1,7 @@
 .regles{
     position: relative;
     text-align: center;
-    margin-bottom: 150px;
+    margin-bottom: 90px;
 }
 .ref{
     width: 68px;
@@ -21,5 +21,6 @@
 
 }
 .textIn{
+    font-size: 18px;
     line-height: 1.7;
 }

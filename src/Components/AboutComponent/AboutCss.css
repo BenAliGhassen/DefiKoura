@@ -1,7 +1,8 @@
 .About{
     position: relative;
     text-align: center;
-    margin-bottom: 150px;
+    margin-bottom: 90px;
+    margin-top: 130px;
 }
 .reglesCont{
   display: flex;
@@ -17,13 +18,10 @@
   bottom: 0;
 }
 .ball2{
-  width: 168px;
-  height: 78px;
+  width: 40px;
+  height: 40px;
+  margin-right: 10px;
 }
-@media (max-width : 762px){
-
-  .ball2{
-  width: 68px;
-  height: 27px;
-}
+.aboutText{
+  font-size: 18px;
 }

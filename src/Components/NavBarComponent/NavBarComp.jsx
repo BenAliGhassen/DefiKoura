@@ -8,7 +8,7 @@ function NavBarComp() {
   return (
      <Navbar>
       <Container>
-        <Navbar.Brand href="#home" className='Logo'>
+        <Navbar.Brand href="/" className='Logo'>
             <img src={ball} alt='football' className='ball'/>
             <h1 className='title m-auto'>DefiKoura</h1>
              </Navbar.Brand>

@@ -6,7 +6,7 @@ function ReglesComp() {
     <div className='mt-5 regles'>
           <div className='reglesCont container'>
         <img src={ref} alt='arbitre' className='ref' />
-        <h2 className='text-white mt-auto mx-5'>Regles</h2>
+        <h1 className='text-white mt-auto mx-5'>Regles de jeu</h1>
           </div>
           <div className='RegCont m-auto mt-5'>
             <ol className='textIn'>

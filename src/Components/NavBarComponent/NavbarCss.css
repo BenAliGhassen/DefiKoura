@@ -1,6 +1,7 @@
 .ball{
-    width: 185px;
-    height: 85px;
+    width: 55px;
+    height: 55px;
+    margin-right: 10px;
 }
 .Logo{
     display: flex;
@@ -13,9 +14,3 @@
 }
 
 
-@media (max-width : 762px){
-    .ball{
-  width: 88px;
-  height: 42px;
-}
-}

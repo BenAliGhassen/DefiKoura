@@ -3,8 +3,14 @@
     opacity: 0.08;
     rotate: 90deg;
     top: 15%;
-      height: 100vw;
+      height: 70vw;
         width: auto;
         object-fit: cover;
     z-index: -999;
+}
+
+@media (max-width : 762px){
+  .stade{
+    height: 100vw;
+  }
 }

@@ -4,16 +4,16 @@ import dinho from '../../Images/dinho10.png'
 import ball from '../../Images/ftball.png'
 function AboutComp() {
   return (
-    <div className='About mt-5'>
+    <div className='About'>
         <img src={dinho} alt='ronaldinho' className='Dinho' />
 
 
-        <div className='reglesCont container'>
+        <div className='reglesCont'>
         <img src={ball} alt='ball' className='ball2' />
-        <h2 className='title mt-auto mb-auto'>C’est Quoi le Jeu</h2>
+        <h1 className='title mt-auto mb-2'>C’est Quoi le Jeu</h1>
         </div>
         
-        <p className='text-white'>Un duel 1v1 en 3 manches :
+        <p className='text-white aboutText'>Un duel 1v1 en 3 manches :
             <br/>
            - questions-réponses
             <br/>

@@ -1,6 +1,10 @@
 body{
   overflow-x: hidden;
   margin: 0;
-  height: 100vh;
-background: linear-gradient(150deg,#6a11cb, #2575fc);
+  background: linear-gradient(
+    180deg, 
+    #6E5AE0 0%, 
+    #7C41F4 12%, 
+    #063896 77%
+  ) ;
 }
