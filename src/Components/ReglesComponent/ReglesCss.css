@@ -8,8 +8,7 @@
     height: 111px;
 }
 .RegCont{
-    background-color: #22C55E ;
-    opacity: 0.9;
+    background: rgba(255, 255, 255, 0.25);
     min-width: fit-content;
     max-width: 632px;
     height: 210px;
