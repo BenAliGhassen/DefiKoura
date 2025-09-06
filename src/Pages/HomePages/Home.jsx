@@ -4,6 +4,7 @@ import AboutComp from '../../Components/AboutComponent/AboutComp'
 import ReglesComp from '../../Components/ReglesComponent/ReglesComp'
 import StadeComp from '../../Components/StadeComponent/StadeComp'
 import ButtonComp from '../../Components/ButtonComponent/ButtonComp'
+import FooterComp from '../../Components/FooterComponent/FooterComp'
 
 function Home() {
   return (
@@ -13,6 +14,7 @@ function Home() {
         <ReglesComp/>
         <StadeComp/>
         <ButtonComp/>
+        <FooterComp/>
     </div>
   )
 }

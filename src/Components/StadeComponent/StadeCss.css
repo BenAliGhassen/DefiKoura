@@ -14,3 +14,10 @@
     height: 100vw;
   }
 }
+
+
+@media (min-width : 1314px){
+  .stade{
+    height: 100vh;
+  }
+}
