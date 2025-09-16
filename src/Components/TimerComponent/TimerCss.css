@@ -1,0 +1,22 @@
+.timer{
+    position: relative;
+    width: 80%;
+    border-radius: 15px;
+    border:  solid black;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: center;
+}
+
+@keyframes dec {
+  
+}
+
+.time{
+
+    width: 100%;
+    background: #deb212;
+background: linear-gradient(90deg,rgba(222, 178, 18, 1) 0%, rgba(199, 145, 87, 1) 50%, rgba(237, 221, 83, 1) 100%);
+    border-radius: 25px;
+     transition: width 1s linear;
+}
+

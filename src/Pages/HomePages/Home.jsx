@@ -5,15 +5,17 @@ import ReglesComp from '../../Components/ReglesComponent/ReglesComp'
 import StadeComp from '../../Components/StadeComponent/StadeComp'
 import ButtonComp from '../../Components/ButtonComponent/ButtonComp'
 import FooterComp from '../../Components/FooterComponent/FooterComp'
+import { useNavigate } from 'react-router-dom'
 
 function Home() {
+  const navigate = useNavigate()
   return (
     <div>
         <NavBarComp/>
         <AboutComp/>
         <ReglesComp/>
         <StadeComp/>
-        <ButtonComp/>
+        <ButtonComp text={"Jouer"} onClick={() => navigate('/Register')} />
         <FooterComp/>
     </div>
   )

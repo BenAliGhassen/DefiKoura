@@ -9,7 +9,7 @@
     ],
     "answer": "France",
     "difficulty": "facile",
-    "category": "Coupe du Monde"
+    "category": "team"
   },
   {
     "question": "Quel pays a remporté la Coupe du Monde 2014 ?",
@@ -21,7 +21,7 @@
     ],
     "answer": "Allemagne",
     "difficulty": "facile",
-    "category": "Coupe du Monde"
+    "category": "team"
   },
   {
     "question": "Quel pays a remporté la Coupe du Monde 2022 ?",
@@ -33,7 +33,7 @@
     ],
     "answer": "Argentine",
     "difficulty": "facile",
-    "category": "Coupe du Monde"
+    "category": "team"
   },
   {
     "question": "Quel pays a remporté la Coupe du Monde 2010 ?",
@@ -45,7 +45,7 @@
     ],
     "answer": "Espagne",
     "difficulty": "facile",
-    "category": "Coupe du Monde"
+    "category": "team"
   },
   {
     "question": "Quel pays a remporté la Coupe du Monde 2006 ?",
@@ -57,7 +57,7 @@
     ],
     "answer": "Italie",
     "difficulty": "facile",
-    "category": "Coupe du Monde"
+    "category": "team"
   },
   {
     "question": "Quel pays a remporté la Coupe du Monde 2002 ?",
@@ -69,7 +69,7 @@
     ],
     "answer": "Brésil",
     "difficulty": "facile",
-    "category": "Coupe du Monde"
+    "category": "team"
   },
   {
     "question": "Combien d'équipes participeront à la Coupe du Monde 2026 ?",
@@ -81,7 +81,7 @@
     ],
     "answer": "48",
     "difficulty": "moyen",
-    "category": "Coupe du Monde"
+    "category": "team"
   },
   {
     "question": "Quel joueur détient le record du plus grand nombre de buts en une seule Coupe du Monde ?",
@@ -93,7 +93,7 @@
     ],
     "answer": "Just Fontaine",
     "difficulty": "moyen",
-    "category": "Coupe du Monde"
+    "category": "player"
   },
   {
     "question": "Quel pays a accueilli la Coupe du Monde 2022 ?",
@@ -105,7 +105,7 @@
     ],
     "answer": "Qatar",
     "difficulty": "facile",
-    "category": "Coupe du Monde"
+    "category": "team"
   },
   {
     "question": "Quel pays a remporté la Coupe du Monde 1930 ?",
@@ -117,7 +117,7 @@
     ],
     "answer": "Uruguay",
     "difficulty": "moyen",
-    "category": "Coupe du Monde"
+    "category": "team"
   },
   {
     "question": "Quel joueur français a été élu meilleur joueur de la Coupe du Monde 1998 ?",
@@ -129,7 +129,7 @@
     ],
     "answer": "Zinédine Zidane",
     "difficulty": "moyen",
-    "category": "Coupe du Monde"
+    "category": "player"
   },
   {
     "question": "Quel joueur allemand a marqué le plus de buts en Coupe du Monde ?",
@@ -141,7 +141,7 @@
     ],
     "answer": "Miroslav Klose",
     "difficulty": "moyen",
-    "category": "Coupe du Monde"
+    "category": "player"
   },
   {
     "question": "Quel gardien italien a remporté la Coupe du Monde 2006 ?",
@@ -153,7 +153,7 @@
     ],
     "answer": "Gianluigi Buffon",
     "difficulty": "moyen",
-    "category": "Coupe du Monde"
+    "category": "player"
   },
   {
     "question": "Quel pays a remporté la Coupe du Monde 1998 ?",
@@ -165,7 +165,7 @@
     ],
     "answer": "France",
     "difficulty": "facile",
-    "category": "Coupe du Monde"
+    "category": "team"
   },
   {
     "question": "Qui détient le record du nombre de buts en Coupe du Monde ?",
@@ -177,7 +177,7 @@
     ],
     "answer": "Miroslav Klose",
     "difficulty": "moyen",
-    "category": "Coupe du Monde"
+    "category": "player"
   },
   {
     "question": "Quel pays a obtenu la 3ème place à la Coupe du Monde 2018 ?",
@@ -189,7 +189,7 @@
     ],
     "answer": "Belgique",
     "difficulty": "moyen",
-    "category": "Coupe du Monde"
+    "category": "team"
   },
   {
     "question": "Qui a remporté la Coupe du Monde féminine de football 2023 ?",
@@ -201,7 +201,7 @@
     ],
     "answer": "Espagne",
     "difficulty": "moyen",
-    "category": "Coupe du Monde"
+    "category": "team"
   },
   {
     "question": "Quel club a remporté le plus de Ligues des Champions ?",
@@ -213,7 +213,7 @@
     ],
     "answer": "Real Madrid",
     "difficulty": "moyen",
-    "category": "Compétitions européennes"
+    "category": "team"
   },
   {
     "question": "Quel club français a remporté la Ligue des Champions ?",
@@ -225,7 +225,7 @@
     ],
     "answer": "Olympique de Marseille",
     "difficulty": "facile",
-    "category": "Compétitions européennes"
+    "category": "team"
   },
   {
     "question": "Quel club anglais a remporté la Ligue des Champions en 2021 ?",
@@ -237,7 +237,7 @@
     ],
     "answer": "Chelsea",
     "difficulty": "moyen",
-    "category": "Compétitions européennes"
+    "category": "team"
   },
   {
     "question": "Quel club a remporté la Ligue des Champions 2023 ?",
@@ -249,7 +249,7 @@
     ],
     "answer": "Real Madrid",
     "difficulty": "moyen",
-    "category": "Compétitions européennes"
+    "category": "team"
   },
   {
     "question": "Quel joueur détient le record du nombre de buts en Ligue des Champions ?",
@@ -261,7 +261,7 @@
     ],
     "answer": "Cristiano Ronaldo",
     "difficulty": "moyen",
-    "category": "Compétitions européennes"
+    "category": "player"
   },
   {
     "question": "Quel pays détient le plus grand nombre de victoires en Ligue des Champions ?",
@@ -273,7 +273,7 @@
     ],
     "answer": "Espagne",
     "difficulty": "moyen",
-    "category": "Compétitions européennes"
+    "category": "team"
   },
   {
     "question": "Quel club a remporté la Ligue Europa en 2021 ?",
@@ -285,7 +285,7 @@
     ],
     "answer": "Villarreal",
     "difficulty": "moyen",
-    "category": "Compétitions européennes"
+    "category": "team"
   },
   {
     "question": "Quel club a remporté la Ligue Europa en 2022 ?",
@@ -297,7 +297,7 @@
     ],
     "answer": "Eintracht Francfort",
     "difficulty": "moyen",
-    "category": "Compétitions européennes"
+    "category": "team"
   },
   {
     "question": "Quel club a remporté la Supercoupe de l'UEFA 2022 ?",
@@ -309,7 +309,7 @@
     ],
     "answer": "Real Madrid",
     "difficulty": "moyen",
-    "category": "Compétitions européennes"
+    "category": "team"
   },
   {
     "question": "Quel club a remporté la Ligue des Champions 2018 ?",
@@ -321,7 +321,7 @@
     ],
     "answer": "Real Madrid",
     "difficulty": "moyen",
-    "category": "Compétitions européennes"
+    "category": "team"
   },
   {
     "question": "Quel club a remporté l'Europa League en 2019 ?",
@@ -333,7 +333,7 @@
     ],
     "answer": "Chelsea",
     "difficulty": "moyen",
-    "category": "Compétitions européennes"
+    "category": "team"
   },
   {
     "question": "Quel club a remporté la Ligue des Champions en 2000 ?",
@@ -345,7 +345,7 @@
     ],
     "answer": "Real Madrid",
     "difficulty": "moyen",
-    "category": "Compétitions européennes"
+    "category": "team"
   },
   {
     "question": "Quel club a remporté la Ligue des Champions en 1999 ?",
@@ -357,31 +357,7 @@
     ],
     "answer": "Manchester United",
     "difficulty": "moyen",
-    "category": "Compétitions européennes"
-  },
-  {
-    "question": "Quel club italien a remporté le plus de Ligues des Champions ?",
-    "options": [
-      "AC Milan",
-      "Juventus",
-      "Inter Milan",
-      "Naples"
-    ],
-    "answer": "AC Milan",
-    "difficulty": "moyen",
-    "category": "Compétitions européennes"
-  },
-  {
-    "question": "Quel club anglais a remporté le plus de Ligues des Champions ?",
-    "options": [
-      "Liverpool",
-      "Manchester United",
-      "Chelsea",
-      "Nottingham Forest"
-    ],
-    "answer": "Liverpool",
-    "difficulty": "moyen",
-    "category": "Compétitions européennes"
+    "category": "team"
   },
   {
     "question": "Quel joueur a gagné la Ligue des Champions avec trois clubs différents ?",
@@ -393,7 +369,7 @@
     ],
     "answer": "Clarence Seedorf",
     "difficulty": "moyen",
-    "category": "Compétitions européennes"
+    "category": "player"
   },
   {
     "question": "Quel club a remporté la Ligue Europa en 2018 ?",
@@ -405,7 +381,7 @@
     ],
     "answer": "Atletico Madrid",
     "difficulty": "moyen",
-    "category": "Compétitions européennes"
+    "category": "team"
   },
   {
     "question": "De quel pays est originaire le club Bayern Munich ?",
@@ -417,7 +393,7 @@
     ],
     "answer": "Allemagne",
     "difficulty": "facile",
-    "category": "Clubs"
+    "category": "team"
   },
   {
     "question": "Quel club a pour surnom 'les Red Devils' ?",
@@ -429,7 +405,7 @@
     ],
     "answer": "Manchester United",
     "difficulty": "facile",
-    "category": "Clubs"
+    "category": "team"
   },
   {
     "question": "Quel club italien est surnommé 'La Vieille Dame' ?",
@@ -441,7 +417,7 @@
     ],
     "answer": "Juventus",
     "difficulty": "facile",
-    "category": "Clubs"
+    "category": "team"
   },
   {
     "question": "Quel club a remporté la Premier League 2021 ?",
@@ -453,7 +429,7 @@
     ],
     "answer": "Manchester City",
     "difficulty": "moyen",
-    "category": "Clubs"
+    "category": "team"
   },
   {
     "question": "Quel club anglais est surnommé 'les Gunners' ?",
@@ -465,7 +441,7 @@
     ],
     "answer": "Arsenal",
     "difficulty": "facile",
-    "category": "Clubs"
+    "category": "team"
   },
   {
     "question": "Quel club a remporté la Ligue 1 en 2023 ?",
@@ -477,7 +453,7 @@
     ],
     "answer": "Paris Saint-Germain",
     "difficulty": "moyen",
-    "category": "Clubs"
+    "category": "team"
   },
   {
     "question": "Quel club a pour entraîneur Pep Guardiola ?",
@@ -489,7 +465,7 @@
     ],
     "answer": "Manchester City",
     "difficulty": "facile",
-    "category": "Clubs"
+    "category": "team"
   },
   {
     "question": "Quel club est surnommé 'les Rossoneri' ?",
@@ -501,7 +477,7 @@
     ],
     "answer": "AC Milan",
     "difficulty": "moyen",
-    "category": "Clubs"
+    "category": "team"
   },
   {
     "question": "Quel club évolue au Parc des Princes ?",
@@ -513,7 +489,7 @@
     ],
     "answer": "Paris Saint-Germain",
     "difficulty": "facile",
-    "category": "Clubs"
+    "category": "team"
   },
   {
     "question": "Quel club a remporté la Premier League en 2004 sans perdre un seul match ?",
@@ -525,7 +501,7 @@
     ],
     "answer": "Arsenal",
     "difficulty": "moyen",
-    "category": "Clubs"
+    "category": "team"
   },
   {
     "question": "Quel club allemand est surnommé 'Le BVB' ?",
@@ -537,7 +513,7 @@
     ],
     "answer": "Borussia Dortmund",
     "difficulty": "moyen",
-    "category": "Clubs"
+    "category": "team"
   },
   {
     "question": "Quel club brésilien a remporté la Copa Libertadores en 2021 ?",
@@ -549,7 +525,7 @@
     ],
     "answer": "Palmeiras",
     "difficulty": "moyen",
-    "category": "Clubs"
+    "category": "team"
   },
   {
     "question": "Quel club a pour surnom 'Los Blancos' ?",
@@ -561,7 +537,7 @@
     ],
     "answer": "Real Madrid",
     "difficulty": "moyen",
-    "category": "Clubs"
+    "category": "team"
   },
   {
     "question": "Quel club écossais est surnommé 'Les Bhoys' ?",
@@ -573,7 +549,7 @@
     ],
     "answer": "Celtic FC",
     "difficulty": "moyen",
-    "category": "Clubs"
+    "category": "team"
   },
   {
     "question": "Dans quel pays évolue le club Ajax Amsterdam ?",
@@ -585,7 +561,7 @@
     ],
     "answer": "Pays-Bas",
     "difficulty": "facile",
-    "category": "Clubs"
+    "category": "team"
   },
   {
     "question": "Quel club a pour président Nasser Al-Khelaïfi ?",
@@ -597,7 +573,7 @@
     ],
     "answer": "Paris Saint-Germain",
     "difficulty": "moyen",
-    "category": "Clubs"
+    "category": "team"
   },
   {
     "question": "Quel club argentin est surnommé 'Los Millonarios' ?",
@@ -609,7 +585,7 @@
     ],
     "answer": "River Plate",
     "difficulty": "moyen",
-    "category": "Clubs"
+    "category": "team"
   },
   {
     "question": "Quel club a remporté la Ligue des champions en 2006 ?",
@@ -621,7 +597,7 @@
     ],
     "answer": "FC Barcelone",
     "difficulty": "moyen",
-    "category": "Compétitions européennes"
+    "category": "team"
   },
   {
     "question": "Quel club a pour couleurs bleu et grenat ?",
@@ -633,7 +609,7 @@
     ],
     "answer": "FC Barcelone",
     "difficulty": "moyen",
-    "category": "Clubs"
+    "category": "team"
   },
   {
     "question": "Quel joueur a remporté le plus de Ballons d'Or ?",
@@ -645,7 +621,7 @@
     ],
     "answer": "Lionel Messi",
     "difficulty": "facile",
-    "category": "Joueurs"
+    "category": "player"
   },
   {
     "question": "Quel joueur est surnommé CR7 ?",
@@ -657,7 +633,7 @@
     ],
     "answer": "Cristiano Ronaldo",
     "difficulty": "facile",
-    "category": "Joueurs"
+    "category": "player"
   },
   {
     "question": "Quel joueur brésilien est surnommé 'O Fenômeno' ?",
@@ -669,7 +645,7 @@
     ],
     "answer": "Ronaldo Nazário",
     "difficulty": "moyen",
-    "category": "Joueurs"
+    "category": "player"
   },
   {
     "question": "Quel joueur argentin a remporté la Copa América 2021 ?",
@@ -681,7 +657,7 @@
     ],
     "answer": "Lionel Messi",
     "difficulty": "facile",
-    "category": "Joueurs"
+    "category": "player"
   },
   {
     "question": "Quel joueur a remporté le plus de fois le Ballon d'Or africain ?",
@@ -693,7 +669,7 @@
     ],
     "answer": "Samuel Eto'o",
     "difficulty": "moyen",
-    "category": "Joueurs"
+    "category": "player"
   },
   {
     "question": "Quel joueur détient le record du plus grand nombre de sélections en équipe de France ?",
@@ -705,7 +681,7 @@
     ],
     "answer": "Hugo Lloris",
     "difficulty": "moyen",
-    "category": "Joueurs"
+    "category": "player"
   },
   {
     "question": "Quel joueur a marqué le but de la victoire en finale de la Ligue des Champions 2014 ?",
@@ -717,7 +693,7 @@
     ],
     "answer": "Gareth Bale",
     "difficulty": "moyen",
-    "category": "Joueurs"
+    "category": "player"
   },
   {
     "question": "Quel joueur a remporté le Soulier d'Or de la Coupe du Monde 1998 ?",
@@ -729,7 +705,7 @@
     ],
     "answer": "Davor Šuker",
     "difficulty": "moyen",
-    "category": "Joueurs"
+    "category": "player"
   },
   {
     "question": "Quel joueur a le plus de buts en Premier League anglaise ?",
@@ -741,7 +717,7 @@
     ],
     "answer": "Alan Shearer",
     "difficulty": "moyen",
-    "category": "Joueurs"
+    "category": "player"
   },
   {
     "question": "Quel joueur a remporté la Ligue des Champions avec Barcelone et Paris Saint-Germain ?",
@@ -753,7 +729,7 @@
     ],
     "answer": "Lionel Messi",
     "difficulty": "moyen",
-    "category": "Joueurs"
+    "category": "player"
   },
   {
     "question": "Quel joueur détient le record du plus jeune buteur en Coupe du Monde ?",
@@ -765,7 +741,7 @@
     ],
     "answer": "Pelé",
     "difficulty": "moyen",
-    "category": "Records"
+    "category": "player"
   },
   {
     "question": "Quel joueur détient le record du plus grand nombre de buts en équipe nationale masculine ?",
@@ -777,7 +753,7 @@
     ],
     "answer": "Cristiano Ronaldo",
     "difficulty": "moyen",
-    "category": "Records"
+    "category": "player"
   },
   {
     "question": "Quel club détient le record du plus grand nombre de titres de champion de France ?",
@@ -789,7 +765,7 @@
     ],
     "answer": "Saint-Étienne",
     "difficulty": "moyen",
-    "category": "Records"
+    "category": "team"
   },
   {
     "question": "Quel club détient le record du plus grand nombre de titres de champion d'Espagne ?",
@@ -801,7 +777,7 @@
     ],
     "answer": "Real Madrid",
     "difficulty": "facile",
-    "category": "Records"
+    "category": "team"
   },
   {
     "question": "Quel club détient le record du plus grand nombre de titres de champion d'Italie ?",
@@ -813,7 +789,7 @@
     ],
     "answer": "Juventus",
     "difficulty": "facile",
-    "category": "Records"
+    "category": "team"
   },
   {
     "question": "Quel club détient le record du plus grand nombre de victoires en Europa League / Coupe UEFA ?",
@@ -825,7 +801,7 @@
     ],
     "answer": "Séville FC",
     "difficulty": "moyen",
-    "category": "Records"
+    "category": "team"
   },
   {
     "question": "Quel club détient le record du plus grand nombre de titres en Coupe du Monde des Clubs de la FIFA ?",
@@ -837,7 +813,7 @@
     ],
     "answer": "Real Madrid",
     "difficulty": "moyen",
-    "category": "Records"
+    "category": "team"
   },
   {
     "question": "Quel joueur a le plus de buts en équipe de France ?",
@@ -849,7 +825,7 @@
     ],
     "answer": "Olivier Giroud",
     "difficulty": "moyen",
-    "category": "Records"
+    "category": "player"
   },
   {
     "question": "Quel joueur détient le record du plus grand nombre de buts en Liga espagnole ?",
@@ -861,7 +837,7 @@
     ],
     "answer": "Lionel Messi",
     "difficulty": "moyen",
-    "category": "Records"
+    "category": "player"
   },
   {
     "question": "Quel joueur détient le record du plus grand nombre de buts en Ligue des Champions sur une seule saison ?",
@@ -873,7 +849,7 @@
     ],
     "answer": "Cristiano Ronaldo",
     "difficulty": "moyen",
-    "category": "Records"
+    "category": "player"
   },
   {
     "question": "Quel joueur a remporté le Ballon d'Or 2023 ?",
@@ -885,7 +861,7 @@
     ],
     "answer": "Lionel Messi",
     "difficulty": "facile",
-    "category": "Récompenses"
+    "category": "player"
   },
   {
     "question": "Quel joueur a remporté le Ballon d'Or 2022 ?",
@@ -897,7 +873,7 @@
     ],
     "answer": "Karim Benzema",
     "difficulty": "facile",
-    "category": "Récompenses"
+    "category": "player"
   },
   {
     "question": "Quel joueur a remporté le Soulier d'Or de la Coupe du Monde 2018 ?",
@@ -909,7 +885,7 @@
     ],
     "answer": "Harry Kane",
     "difficulty": "moyen",
-    "category": "Récompenses"
+    "category": "player"
   },
   {
     "question": "Quel joueur a remporté le Soulier d'Or de la Coupe du Monde 2022 ?",
@@ -921,7 +897,7 @@
     ],
     "answer": "Kylian Mbappé",
     "difficulty": "moyen",
-    "category": "Récompenses"
+    "category": "player"
   },
   {
     "question": "Quel joueur a remporté le Soulier d'Or de l'Euro 2020 ?",
@@ -933,19 +909,19 @@
     ],
     "answer": "Cristiano Ronaldo",
     "difficulty": "moyen",
-    "category": "Récompenses"
+    "category": "player"
   },
   {
     "question": "Quel joueur a remporté le Ballon d'Or 2018 ?",
     "options": [
-      "Luka Modrić",
+      "Luka Modric",
       "Cristiano Ronaldo",
       "Lionel Messi",
       "Antoine Griezmann"
     ],
-    "answer": "Luka Modrić",
+    "answer": "Luka Modric",
     "difficulty": "moyen",
-    "category": "Récompenses"
+    "category": "player"
   },
   {
     "question": "Quel joueur a remporté le Ballon d'Or 2019 ?",
@@ -957,7 +933,7 @@
     ],
     "answer": "Lionel Messi",
     "difficulty": "moyen",
-    "category": "Récompenses"
+    "category": "player"
   },
   {
     "question": "Quel joueur a remporté le Ballon d'Or 2021 ?",
@@ -969,7 +945,7 @@
     ],
     "answer": "Lionel Messi",
     "difficulty": "moyen",
-    "category": "Récompenses"
+    "category": "player"
   },
   {
     "question": "Quel joueur a remporté le Ballon d'Or 2016 ?",
@@ -981,7 +957,7 @@
     ],
     "answer": "Cristiano Ronaldo",
     "difficulty": "moyen",
-    "category": "Récompenses"
+    "category": "player"
   },
   {
     "question": "Quel joueur a remporté le Ballon d'Or 2017 ?",
@@ -989,11 +965,11 @@
       "Cristiano Ronaldo",
       "Lionel Messi",
       "Neymar Jr.",
-      "Luka Modrić"
+      "Luka Modric"
     ],
     "answer": "Cristiano Ronaldo",
     "difficulty": "moyen",
-    "category": "Récompenses"
+    "category": "player"
   },
   {
     "question": "Quel joueur a remporté le Ballon d'Or 2010 ?",
@@ -1005,7 +981,7 @@
     ],
     "answer": "Lionel Messi",
     "difficulty": "moyen",
-    "category": "Récompenses"
+    "category": "player"
   },
   {
     "question": "Quel joueur a remporté le Ballon d'Or 2011 ?",
@@ -1017,7 +993,7 @@
     ],
     "answer": "Lionel Messi",
     "difficulty": "moyen",
-    "category": "Récompenses"
+    "category": "player"
   },
   {
     "question": "Quel joueur a remporté le Ballon d'Or 2012 ?",
@@ -1029,7 +1005,7 @@
     ],
     "answer": "Lionel Messi",
     "difficulty": "moyen",
-    "category": "Récompenses"
+    "category": "player"
   },
   {
     "question": "Quel joueur a remporté le Ballon d'Or 2013 ?",
@@ -1041,7 +1017,7 @@
     ],
     "answer": "Cristiano Ronaldo",
     "difficulty": "moyen",
-    "category": "Récompenses"
+    "category": "player"
   },
   {
     "question": "Quel club a remporté la Supercoupe de l'UEFA 2021 ?",
@@ -1053,7 +1029,7 @@
     ],
     "answer": "Bayern Munich",
     "difficulty": "moyen",
-    "category": "Compétitions européennes"
+    "category": "team"
   },
   {
     "question": "Quel pays a remporté l'Euro 2020 ?",
@@ -1065,7 +1041,7 @@
     ],
     "answer": "Italie",
     "difficulty": "facile",
-    "category": "Compétitions européennes"
+    "category": "team"
   },
   {
     "question": "Quel pays a remporté l'Euro 2016 ?",
@@ -1077,7 +1053,7 @@
     ],
     "answer": "Portugal",
     "difficulty": "facile",
-    "category": "Compétitions européennes"
+    "category": "team"
   },
   {
     "question": "Quel pays a remporté la Ligue des Nations de l'UEFA en 2023 ?",
@@ -1089,7 +1065,7 @@
     ],
     "answer": "Pays-Bas",
     "difficulty": "moyen",
-    "category": "Compétitions européennes"
+    "category": "team"
   },
   {
     "question": "Quel pays a remporté la Ligue des Nations de l'UEFA en 2021 ?",
@@ -1101,7 +1077,7 @@
     ],
     "answer": "France",
     "difficulty": "moyen",
-    "category": "Compétitions européennes"
+    "category": "team"
   },
   {
     "question": "Quel pays a remporté l'Euro 2000 ?",
@@ -1113,7 +1089,7 @@
     ],
     "answer": "France",
     "difficulty": "moyen",
-    "category": "Compétitions européennes"
+    "category": "team"
   },
   {
     "question": "Quel pays a remporté l'Euro 2012 ?",
@@ -1125,7 +1101,7 @@
     ],
     "answer": "Espagne",
     "difficulty": "facile",
-    "category": "Compétitions européennes"
+    "category": "team"
   },
   {
     "question": "Quel pays a remporté l'Euro 2004 ?",
@@ -1137,7 +1113,7 @@
     ],
     "answer": "Grèce",
     "difficulty": "moyen",
-    "category": "Compétitions européennes"
+    "category": "team"
   },
   {
     "question": "Quel pays a remporté le Championnat d'Europe de l'UEFA 1960 ?",
@@ -1149,7 +1125,7 @@
     ],
     "answer": "Union soviétique",
     "difficulty": "moyen",
-    "category": "Compétitions européennes"
+    "category": "team"
   },
   {
     "question": "Quel club a remporté la Supercoupe de l'UEFA en 2014 ?",
@@ -1161,7 +1137,7 @@
     ],
     "answer": "Real Madrid",
     "difficulty": "moyen",
-    "category": "Compétitions européennes"
+    "category": "team"
   },
   {
     "question": "Quel pays a remporté la Coupe d'Afrique des Nations 2019 ?",
@@ -1173,7 +1149,7 @@
     ],
     "answer": "Algérie",
     "difficulty": "moyen",
-    "category": "Sélections nationales"
+    "category": "team"
   },
   {
     "question": "Quel pays a remporté la Copa América 2021 ?",
@@ -1185,7 +1161,7 @@
     ],
     "answer": "Argentine",
     "difficulty": "facile",
-    "category": "Sélections nationales"
+    "category": "team"
   },
   {
     "question": "Quel pays a remporté la Copa América 2019 ?",
@@ -1197,7 +1173,7 @@
     ],
     "answer": "Brésil",
     "difficulty": "facile",
-    "category": "Sélections nationales"
+    "category": "team"
   },
   {
     "question": "Quel pays a remporté la Coupe d'Afrique des Nations 2021 ?",
@@ -1209,7 +1185,7 @@
     ],
     "answer": "Sénégal",
     "difficulty": "moyen",
-    "category": "Sélections nationales"
+    "category": "team"
   },
   {
     "question": "Quel pays a remporté la Gold Cup 2021 ?",
@@ -1221,7 +1197,7 @@
     ],
     "answer": "États-Unis",
     "difficulty": "facile",
-    "category": "Sélections nationales"
+    "category": "team"
   },
   {
     "question": "Quel pays a remporté la Gold Cup 2023 ?",
@@ -1233,7 +1209,7 @@
     ],
     "answer": "Mexique",
     "difficulty": "moyen",
-    "category": "Sélections nationales"
+    "category": "team"
   },
   {
     "question": "Quel pays a remporté la Ligue des Nations de l'UEFA 2024 ?",
@@ -1245,7 +1221,7 @@
     ],
     "answer": "Italie",
     "difficulty": "moyen",
-    "category": "Sélections nationales"
+    "category": "team"
   },
   {
     "question": "Quel pays a remporté la Coupe d'Afrique des Nations 2022 ?",
@@ -1257,7 +1233,7 @@
     ],
     "answer": "Algérie",
     "difficulty": "moyen",
-    "category": "Sélections nationales"
+    "category": "team"
   },
   {
     "question": "Quel pays a remporté la Coupe d'Afrique des Nations 2023 ?",
@@ -1269,7 +1245,7 @@
     ],
     "answer": "Cameroun",
     "difficulty": "moyen",
-    "category": "Sélections nationales"
+    "category": "team"
   },
   {
     "question": "Quel pays a remporté la Coupe du Monde 1994 ?",
@@ -1281,7 +1257,7 @@
     ],
     "answer": "Brésil",
     "difficulty": "facile",
-    "category": "Coupe du Monde"
+    "category": "team"
   },
   {
     "question": "Quel pays a remporté la Coupe du Monde 1990 ?",
@@ -1293,7 +1269,7 @@
     ],
     "answer": "Allemagne de l'Ouest",
     "difficulty": "moyen",
-    "category": "Coupe du Monde"
+    "category": "team"
   },
   {
     "question": "Quel pays a remporté la Coupe du Monde 1986 ?",
@@ -1305,7 +1281,7 @@
     ],
     "answer": "Argentine",
     "difficulty": "moyen",
-    "category": "Coupe du Monde"
+    "category": "team"
   },
   {
     "question": "Quel pays a remporté la Coupe du Monde 1982 ?",
@@ -1317,7 +1293,7 @@
     ],
     "answer": "Italie",
     "difficulty": "moyen",
-    "category": "Coupe du Monde"
+    "category": "team"
   },
   {
     "question": "Quel pays a remporté la Coupe du Monde 1978 ?",
@@ -1329,7 +1305,7 @@
     ],
     "answer": "Argentine",
     "difficulty": "moyen",
-    "category": "Coupe du Monde"
+    "category": "team"
   },
   {
     "question": "Quel pays a remporté la Coupe du Monde 1974 ?",
@@ -1341,7 +1317,7 @@
     ],
     "answer": "Allemagne de l'Ouest",
     "difficulty": "moyen",
-    "category": "Coupe du Monde"
+    "category": "team"
   },
   {
     "question": "Quel pays a remporté la Coupe du Monde 1966 ?",
@@ -1353,7 +1329,7 @@
     ],
     "answer": "Angleterre",
     "difficulty": "moyen",
-    "category": "Coupe du Monde"
+    "category": "team"
   },
   {
     "question": "Quel pays a remporté la Coupe du Monde 1962 ?",
@@ -1365,7 +1341,7 @@
     ],
     "answer": "Brésil",
     "difficulty": "moyen",
-    "category": "Coupe du Monde"
+    "category": "team"
   },
   {
     "question": "Quel pays a remporté la Coupe du Monde 1958 ?",
@@ -1377,7 +1353,7 @@
     ],
     "answer": "Brésil",
     "difficulty": "moyen",
-    "category": "Coupe du Monde"
+    "category": "team"
   },
   {
     "question": "Quel pays l'équipe d'Italie a-t-elle battu en finale de l'Euro 2020 ?",
@@ -1389,7 +1365,7 @@
     ],
     "answer": "Angleterre",
     "difficulty": "facile",
-    "category": "Sélections nationales"
+    "category": "team"
   },
   {
     "question": "Quel pays a remporté l'Euro 2008 ?",
@@ -1401,7 +1377,7 @@
     ],
     "answer": "Espagne",
     "difficulty": "moyen",
-    "category": "Compétitions européennes"
+    "category": "team"
   },
   {
     "question": "Quel club a remporté la Ligue 1 en 2022 ?",
@@ -1413,7 +1389,7 @@
     ],
     "answer": "Paris Saint-Germain",
     "difficulty": "facile",
-    "category": "Clubs"
+    "category": "team"
   },
   {
     "question": "Quel club a remporté la Premier League 2020 ?",
@@ -1425,7 +1401,7 @@
     ],
     "answer": "Liverpool",
     "difficulty": "moyen",
-    "category": "Clubs"
+    "category": "team"
   },
   {
     "question": "Quel club a remporté la Premier League 2016 ?",
@@ -1437,7 +1413,7 @@
     ],
     "answer": "Leicester City",
     "difficulty": "moyen",
-    "category": "Clubs"
+    "category": "team"
   },
   {
     "question": "Quel club a remporté la Copa Libertadores 2020 ?",
@@ -1449,7 +1425,7 @@
     ],
     "answer": "Palmeiras",
     "difficulty": "moyen",
-    "category": "Clubs"
+    "category": "team"
   },
   {
     "question": "Quel club a remporté la Copa Libertadores 2018 ?",
@@ -1461,7 +1437,7 @@
     ],
     "answer": "River Plate",
     "difficulty": "moyen",
-    "category": "Clubs"
+    "category": "team"
   },
   {
     "question": "Combien de fois le Brésil a-t-il remporté la Coupe du Monde ?",
@@ -1473,7 +1449,7 @@
     ],
     "answer": "5",
     "difficulty": "facile",
-    "category": "Records"
+    "category": "team"
   },
   {
     "question": "Quel pays a remporté la Coupe d'Asie des Nations 2019 ?",
@@ -1485,7 +1461,7 @@
     ],
     "answer": "Qatar",
     "difficulty": "moyen",
-    "category": "Sélections nationales"
+    "category": "team"
   },
   {
     "question": "Quel club a remporté la Ligue Europa Conférence en 2023 ?",
@@ -1497,7 +1473,7 @@
     ],
     "answer": "West Ham United",
     "difficulty": "moyen",
-    "category": "Compétitions européennes"
+    "category": "team"
   },
   {
     "question": "Quel joueur a remporté le plus de Coupes d'Afrique des Nations ?",
@@ -1509,7 +1485,7 @@
     ],
     "answer": "Samuel Eto'o",
     "difficulty": "moyen",
-    "category": "Records"
+    "category": "player"
   },
   {
     "question": "Quel club a remporté la Premier League en 1995 ?",
@@ -1521,7 +1497,7 @@
     ],
     "answer": "Blackburn Rovers",
     "difficulty": "moyen",
-    "category": "Clubs"
+    "category": "team"
   },
   {
     "question": "Quel club a remporté la Liga 2015 ?",
@@ -1533,7 +1509,7 @@
     ],
     "answer": "FC Barcelone",
     "difficulty": "moyen",
-    "category": "Clubs"
+    "category": "team"
   },
   {
     "question": "Quel pays a remporté la Coupe du Monde féminine de football 2019 ?",
@@ -1545,7 +1521,7 @@
     ],
     "answer": "États-Unis",
     "difficulty": "facile",
-    "category": "Coupe du Monde"
+    "category": "team"
   },
   {
     "question": "Quel joueur a remporté le Ballon d'Or 2014 ?",
@@ -1557,7 +1533,7 @@
     ],
     "answer": "Cristiano Ronaldo",
     "difficulty": "moyen",
-    "category": "Récompenses"
+    "category": "player"
   },
   {
     "question": "Quel pays a remporté la Coupe du Monde 1954 ?",
@@ -1569,6 +1545,654 @@
     ],
     "answer": "Allemagne de l'Ouest",
     "difficulty": "moyen",
-    "category": "Coupe du Monde"
+    "category": "team"
+  },
+  {
+    "question": "Quel pays a remporté la Coupe du Monde 1970 ?",
+    "options": [
+      "Brésil",
+      "Allemagne de l'Ouest",
+      "Italie",
+      "Argentine"
+    ],
+    "answer": "Brésil",
+    "difficulty": "facile",
+    "category": "team"
+  },
+  {
+    "question": "Quel pays a remporté la Coupe du Monde 1950 ?",
+    "options": [
+      "Uruguay",
+      "Brésil",
+      "Allemagne de l'Ouest",
+      "Italie"
+    ],
+    "answer": "Uruguay",
+    "difficulty": "moyen",
+    "category": "team"
+  },
+  {
+    "question": "Quel pays a remporté la Coupe du Monde 1934 ?",
+    "options": [
+      "Italie",
+      "Uruguay",
+      "Argentine",
+      "Tchéquie"
+    ],
+    "answer": "Italie",
+    "difficulty": "moyen",
+    "category": "team"
+  },
+  {
+    "question": "Quel pays a remporté la Coupe du Monde féminine 2011 ?",
+    "options": [
+      "Japon",
+      "États-Unis",
+      "Allemagne",
+      "Brésil"
+    ],
+    "answer": "Japon",
+    "difficulty": "moyen",
+    "category": "team"
+  },
+  {
+    "question": "Quel pays a remporté la Coupe du Monde féminine 2007 ?",
+    "options": [
+      "Allemagne",
+      "États-Unis",
+      "Brésil",
+      "Angleterre"
+    ],
+    "answer": "Allemagne",
+    "difficulty": "moyen",
+    "category": "team"
+  },
+  {
+    "question": "Quel pays a remporté la Coupe du Monde féminine 1999 ?",
+    "options": [
+      "États-Unis",
+      "Allemagne",
+      "Chine",
+      "Norvège"
+    ],
+    "answer": "États-Unis",
+    "difficulty": "moyen",
+    "category": "team"
+  },
+  {
+    "question": "Quel club a remporté la Premier League 2019 ?",
+    "options": [
+      "Liverpool",
+      "Manchester City",
+      "Chelsea",
+      "Manchester United"
+    ],
+    "answer": "Manchester City",
+    "difficulty": "moyen",
+    "category": "team"
+  },
+  {
+    "question": "Quel club a remporté la Premier League 2022 ?",
+    "options": [
+      "Manchester City",
+      "Liverpool",
+      "Chelsea",
+      "Manchester United"
+    ],
+    "answer": "Manchester City",
+    "difficulty": "moyen",
+    "category": "team"
+  },
+  {
+    "question": "Quel club a remporté la Ligue 1 2021 ?",
+    "options": [
+      "Paris Saint-Germain",
+      "Lille",
+      "Marseille",
+      "Monaco"
+    ],
+    "answer": "Lille",
+    "difficulty": "moyen",
+    "category": "team"
+  },
+  {
+    "question": "Quel club a remporté la Ligue 1 2020 ?",
+    "options": [
+      "Paris Saint-Germain",
+      "Lyon",
+      "Lille",
+      "Monaco"
+    ],
+    "answer": "Paris Saint-Germain",
+    "difficulty": "moyen",
+    "category": "team"
+  },
+  {
+    "question": "Quel club a remporté la Bundesliga 2023 ?",
+    "options": [
+      "Bayern Munich",
+      "Borussia Dortmund",
+      "RB Leipzig",
+      "Bayer Leverkusen"
+    ],
+    "answer": "Bayern Munich",
+    "difficulty": "moyen",
+    "category": "team"
+  },
+  {
+    "question": "Quel club a remporté la Serie A 2023 ?",
+    "options": [
+      "Juventus",
+      "Inter Milan",
+      "AC Milan",
+      "Naples"
+    ],
+    "answer": "Naples",
+    "difficulty": "moyen",
+    "category": "team"
+  },
+  {
+    "question": "Quel club a remporté la Liga 2021 ?",
+    "options": [
+      "Real Madrid",
+      "Atlético Madrid",
+      "FC Barcelone",
+      "Séville"
+    ],
+    "answer": "Atlético Madrid",
+    "difficulty": "moyen",
+    "category": "team"
+  },
+  {
+    "question": "Quel club a remporté la Liga 2022 ?",
+    "options": [
+      "Real Madrid",
+      "Atlético Madrid",
+      "FC Barcelone",
+      "Séville"
+    ],
+    "answer": "Real Madrid",
+    "difficulty": "moyen",
+    "category": "team"
+  },
+  {
+    "question": "Quel club a remporté la Ligue des Champions 2012 ?",
+    "options": [
+      "Chelsea",
+      "Bayern Munich",
+      "Barcelona",
+      "Manchester United"
+    ],
+    "answer": "Chelsea",
+    "difficulty": "moyen",
+    "category": "team"
+  },
+  {
+    "question": "Quel club a remporté la Ligue des Champions 2013 ?",
+    "options": [
+      "Bayern Munich",
+      "Borussia Dortmund",
+      "Real Madrid",
+      "AC Milan"
+    ],
+    "answer": "Bayern Munich",
+    "difficulty": "moyen",
+    "category": "team"
+  },
+  {
+    "question": "Quel club a remporté la Ligue des Champions 2014 ?",
+    "options": [
+      "Real Madrid",
+      "Atlético Madrid",
+      "Barcelona",
+      "Paris Saint-Germain"
+    ],
+    "answer": "Real Madrid",
+    "difficulty": "moyen",
+    "category": "team"
+  },
+  {
+    "question": "Quel club a remporté la Ligue des Champions 2016 ?",
+    "options": [
+      "Real Madrid",
+      "Atlético Madrid",
+      "Barcelona",
+      "Bayern Munich"
+    ],
+    "answer": "Real Madrid",
+    "difficulty": "moyen",
+    "category": "team"
+  },
+  {
+    "question": "Quel club a remporté la Ligue des Champions 2017 ?",
+    "options": [
+      "Real Madrid",
+      "Juventus",
+      "Atlético Madrid",
+      "Barcelona"
+    ],
+    "answer": "Real Madrid",
+    "difficulty": "moyen",
+    "category": "team"
+  },
+  {
+    "question": "Quel club a remporté la Ligue des Champions 2019 ?",
+    "options": [
+      "Liverpool",
+      "Tottenham",
+      "FC Barcelone",
+      "PSG"
+    ],
+    "answer": "Liverpool",
+    "difficulty": "moyen",
+    "category": "team"
+  },
+  {
+    "question": "Quel club a remporté la Ligue des Champions 2022 ?",
+    "options": [
+      "Real Madrid",
+      "Liverpool",
+      "Manchester City",
+      "Bayern Munich"
+    ],
+    "answer": "Real Madrid",
+    "difficulty": "moyen",
+    "category": "team"
+  },
+  {
+    "question": "Quel club a remporté la Supercoupe de l'UEFA 2016 ?",
+    "options": [
+      "Real Madrid",
+      "Sevilla",
+      "Barcelona",
+      "Juventus"
+    ],
+    "answer": "Real Madrid",
+    "difficulty": "moyen",
+    "category": "team"
+  },
+  {
+    "question": "Quel club a remporté la Supercoupe de l'UEFA 2017 ?",
+    "options": [
+      "Real Madrid",
+      "Manchester United",
+      "Sevilla",
+      "Barcelona"
+    ],
+    "answer": "Real Madrid",
+    "difficulty": "moyen",
+    "category": "team"
+  },
+  {
+    "question": "Quel club a remporté la Supercoupe de l'UEFA 2018 ?",
+    "options": [
+      "Atletico Madrid",
+      "Real Madrid",
+      "FC Séville",
+      "Manchester United"
+    ],
+    "answer": "Atletico Madrid",
+    "difficulty": "moyen",
+    "category": "team"
+  },
+  {
+    "question": "Quel club a remporté l'Europa League 2017 ?",
+    "options": [
+      "Manchester United",
+      "Ajax",
+      "Sevilla",
+      "Arsenal"
+    ],
+    "answer": "Manchester United",
+    "difficulty": "moyen",
+    "category": "team"
+  },
+  {
+    "question": "Quel club a remporté la Copa Libertadores 2016 ?",
+    "options": [
+      "Atlético Nacional",
+      "River Plate",
+      "Boca Juniors",
+      "Santos"
+    ],
+    "answer": "Atlético Nacional",
+    "difficulty": "moyen",
+    "category": "team"
+  },
+  {
+    "question": "Quel club a remporté la Copa Libertadores 2017 ?",
+    "options": [
+      "Grêmio",
+      "River Plate",
+      "Boca Juniors",
+      "Santos"
+    ],
+    "answer": "Grêmio",
+    "difficulty": "moyen",
+    "category": "team"
+  },
+  {
+    "question": "Quel joueur a le plus de sélections internationales de tous les temps ?",
+    "options": [
+      "Cristiano Ronaldo",
+      "Ali Daei",
+      "Sergio Ramos",
+      "Iker Casillas"
+    ],
+    "answer": "Cristiano Ronaldo",
+    "difficulty": "moyen",
+    "category": "player"
+  },
+  {
+    "question": "Quel joueur détient le record du plus grand nombre de buts en Serie A ?",
+    "options": [
+      "Silvio Piola",
+      "Francesco Totti",
+      "Krzysztof Piatek",
+      "Mauro Icardi"
+    ],
+    "answer": "Silvio Piola",
+    "difficulty": "moyen",
+    "category": "player"
+  },
+  {
+    "question": "Quel joueur détient le record du plus grand nombre de buts en une seule saison de Ligue des Champions ?",
+    "options": [
+      "Lionel Messi",
+      "Cristiano Ronaldo",
+      "Karim Benzema",
+      "Robert Lewandowski"
+    ],
+    "answer": "Cristiano Ronaldo",
+    "difficulty": "moyen",
+    "category": "player"
+  },
+  {
+    "question": "Quel joueur détient le record du plus grand nombre de buts en une seule Coupe d'Afrique des Nations ?",
+    "options": [
+      "Samuel Eto'o",
+      "Riyad Mahrez",
+      "Pierre-Emerick Aubameyang",
+      "Didier Drogba"
+    ],
+    "answer": "Samuel Eto'o",
+    "difficulty": "moyen",
+    "category": "player"
+  },
+  {
+    "question": "Quel joueur détient le record du plus grand nombre de buts en une seule Coupe du Monde ?",
+    "options": [
+      "Just Fontaine",
+      "Miroslav Klose",
+      "Pelé",
+      "Ronaldo"
+    ],
+    "answer": "Just Fontaine",
+    "difficulty": "moyen",
+    "category": "player"
+  },
+  {
+    "question": "Quel joueur a marqué le plus de buts en une seule finale de Ligue des Champions ?",
+    "options": [
+      "Cristiano Ronaldo",
+      "Rudy Galetti",
+      "Alessandro Del Piero",
+      "Gerd Müller"
+    ],
+    "answer": "Cristiano Ronaldo",
+    "difficulty": "moyen",
+    "category": "player"
+  },
+  {
+    "question": "Quel joueur a le plus de buts en une seule édition de la Copa América ?",
+    "options": [
+      "Paolo Guerrero",
+      "Lionel Messi",
+      "Neymar",
+      "Luis Suárez"
+    ],
+    "answer": "Paolo Guerrero",
+    "difficulty": "moyen",
+    "category": "player"
+  },
+  {
+    "question": "Quel joueur détient le record du plus grand nombre de buts en un match de Ligue des Champions ?",
+    "options": [
+      "Lionel Messi",
+      "Cristiano Ronaldo",
+      "Karim Benzema",
+      "Robert Lewandowski"
+    ],
+    "answer": "Cristiano Ronaldo",
+    "difficulty": "moyen",
+    "category": "player"
+  },
+  {
+    "question": "Quel joueur a le plus de buts officiels dans sa carrière ?",
+    "options": [
+      "Pelé",
+      "Cristiano Ronaldo",
+      "Lionel Messi",
+      "Romário"
+    ],
+    "answer": "Cristiano Ronaldo",
+    "difficulty": "moyen",
+    "category": "player"
+  },
+  {
+    "question": "Quel joueur a le plus de Ballons d'Or en tant que défenseur ?",
+    "options": [
+      "Fabio Cannavaro",
+      "Franz Beckenbauer",
+      "Bobby Moore",
+      "Paolo Maldini"
+    ],
+    "answer": "Fabio Cannavaro",
+    "difficulty": "moyen",
+    "category": "player"
+  },
+  {
+    "question": "Quel joueur a remporté le plus de titres de champion d'Angleterre ?",
+    "options": [
+      "Ryan Giggs",
+      "Paul Scholes",
+      "Gary Neville",
+      "Roy Keane"
+    ],
+    "answer": "Ryan Giggs",
+    "difficulty": "moyen",
+    "category": "player"
+  },
+  {
+    "question": "Quel joueur détient le record du plus grand nombre de passes décisives en Premier League ?",
+    "options": [
+      "Ryan Giggs",
+      "Steven Gerrard",
+      "Mesut Özil",
+      "Wayne Rooney"
+    ],
+    "answer": "Ryan Giggs",
+    "difficulty": "moyen",
+    "category": "player"
+  },
+  {
+    "question": "Quel joueur brésilien a remporté la Copa América 2019 en tant qu'entraîneur ?",
+    "options": [
+      "Tite",
+      "Felipão",
+      "Dunga",
+      "Carlos Alberto Parreira"
+    ],
+    "answer": "Tite",
+    "difficulty": "moyen",
+    "category": "coach"
+  },
+  {
+    "question": "Quel joueur argentin a remporté la Copa América 2021 en tant qu'entraîneur ?",
+    "options": [
+      "Jorge Sampaoli",
+      "Lionel Scaloni",
+      "Ricardo Gareca",
+      "Gerardo Martino"
+    ],
+    "answer": "Lionel Scaloni",
+    "difficulty": "moyen",
+    "category": "coach"
+  },
+  {
+    "question": "Quel entraîneur a remporté le plus de titres en Serie A en tant qu'entraîneur ?",
+    "options": [
+      "Giovanni Trapattoni",
+      "Fabio Capello",
+      "Carlo Ancelotti",
+      "Antonio Conte"
+    ],
+    "answer": "Giovanni Trapattoni",
+    "difficulty": "moyen",
+    "category": "coach"
+  },
+  {
+    "question": "Quel entraîneur a remporté le plus de titres en Ligue 1 en tant qu'entraîneur ?",
+    "options": [
+      "Guy Roux",
+      "Hervé Renard",
+      "José Anigo",
+      "Gérard Houllier"
+    ],
+    "answer": "Guy Roux",
+    "difficulty": "moyen",
+    "category": "coach"
+  },
+  {
+    "question": "Quel entraîneur a remporté le plus de titres en Premier League en tant qu'entraîneur ?",
+    "options": [
+      "Sir Alex Ferguson",
+      "Arsène Wenger",
+      "Jose Mourinho",
+      "Pep Guardiola"
+    ],
+    "answer": "Sir Alex Ferguson",
+    "difficulty": "moyen",
+    "category": "coach"
+  },
+  {
+    "question": "Quel entraîneur a remporté le plus de fois la Ligue des Champions ?",
+    "options": [
+      "Carlo Ancelotti",
+      "Pep Guardiola",
+      "Ottmar Hitzfeld",
+      "Bob Paisley"
+    ],
+    "answer": "Carlo Ancelotti",
+    "difficulty": "moyen",
+    "category": "coach"
+  },
+  {
+    "question": "Quel entraîneur a remporté deux Coupes du Monde ?",
+    "options": [
+      "Vittorio Pozzo",
+      "Franz Beckenbauer",
+      "Aimé Jacquet",
+      "Helmut Schön"
+    ],
+    "answer": "Vittorio Pozzo",
+    "difficulty": "moyen",
+    "category": "coach"
+  },
+  {
+    "question": "Quel entraîneur a mené la Grèce à l'Euro 2004 ?",
+    "options": [
+      "Otto Rehhagel",
+      "Johan Cruyff",
+      "Marcello Lippi",
+      "Hector Cúper"
+    ],
+    "answer": "Otto Rehhagel",
+    "difficulty": "moyen",
+    "category": "coach"
+  },
+  {
+    "question": "Quel entraîneur a remporté la Coupe du Monde 2014 ?",
+    "options": [
+      "Joachim Löw",
+      "Miroslav Klose",
+      "Jürgen Klopp",
+      "Fabio Capello"
+    ],
+    "answer": "Joachim Löw",
+    "difficulty": "moyen",
+    "category": "coach"
+  },
+  {
+    "question": "Quel pays a remporté plus de Coupes d'Afrique des Nations ?",
+    "options": [
+      "Algérie",
+      "Égypte",
+      "Cameroun",
+      "Nigéria"
+    ],
+    "answer": "Égypte",
+    "difficulty": "moyen",
+    "category": "team"
+  },
+  {
+    "question": "Quel pays a remporté la Coupe d'Afrique des Nations 2013 ?",
+    "options": [
+      "Nigeria",
+      "Ghana",
+      "Côte d'Ivoire",
+      "Égypte"
+    ],
+    "answer": "Nigeria",
+    "difficulty": "moyen",
+    "category": "team"
+  },
+  {
+    "question": "Quel pays a remporté la Copa América 2016 ?",
+    "options": [
+      "Argentine",
+      "Chili",
+      "Colombie",
+      "États-Unis"
+    ],
+    "answer": "Argentine",
+    "difficulty": "moyen",
+    "category": "team"
+  },
+  {
+    "question": "Quel club a joué le plus de saisons consécutives en Premier League ?",
+    "options": [
+      "Arsenal",
+      "Manchester United",
+      "Chelsea",
+      "Everton"
+    ],
+    "answer": "Arsenal",
+    "difficulty": "moyen",
+    "category": "team"
+  },
+  {
+    "question": "Quel club a joué le plus de saisons consécutives en Serie A ?",
+    "options": [
+      "Inter Milan",
+      "AS Roma",
+      "Juventus",
+      "AC Milan"
+    ],
+    "answer": "Inter Milan",
+    "difficulty": "moyen",
+    "category": "team"
+  },
+  {
+    "question": "Quel club a remporté la Premier League 2021 ?",
+    "options": [
+      "Arsenal",
+      "Manchester United",
+      "Manchester City",
+      "Liverpool"
+    ],
+    "answer": "Manchester City",
+    "difficulty": "moyen",
+    "category": "team"
   }
 ]

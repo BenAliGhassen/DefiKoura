@@ -11,7 +11,7 @@ function ReglesComp() {
           <div className='RegCont m-auto mt-5'>
             <ol className='textIn'>
                 <li>Répondez correctement aux questions de foot.
-                <br/>👉 Vous avez 3 essais chacun.</li>
+                <br/>👉 Vous avez 3 questions chacun.</li>
                 <li>Devinez le joueur à partir de sa carrière.
                 <br/>👉 Vous avez 2 essais.</li>
                 <li>Une enchère : qui peut citer le plus de réponses en 30 secondes.
