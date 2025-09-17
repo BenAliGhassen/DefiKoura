@@ -1,7 +1,10 @@
 import React from 'react'
 import ButtonComp from '../ButtonComponent/ButtonComp'
+import { ToRound2 } from '../../Functions/NextRound'
+import { useNavigate } from "react-router-dom";
 
 function ScoreComp({scoreJ1,scoreJ2,joueur1,joueur2}) {
+const navigate = useNavigate();
   return (
     
     <div>
@@ -14,7 +17,7 @@ function ScoreComp({scoreJ1,scoreJ2,joueur1,joueur2}) {
     {scoreJ2}
   </h1>
         </div>
-  <ButtonComp text={"Terminer"} onClick={()=>{localStorage.clear()}} />
+  <ButtonComp text={"Next"} onClick={()=>{ToRound2(scoreJ1,scoreJ2,navigate)}} />
     </div>
   )
 }

@@ -5,7 +5,7 @@ import Autocomplete from "@mui/material/Autocomplete";
 import Players from "../../Data/Players.json";
 import Teams from "../../Data/Teams.json";
 
-export default function AutoComp({ categ,setchoix }) {
+export default function AutoComp({ categ,setchoix,rep }) {
 
   const options = useMemo(() => {
     if (categ === "team") {
@@ -21,6 +21,7 @@ export default function AutoComp({ categ,setchoix }) {
         disablePortal
         id="auto-complete"
         options={options}
+        value={rep}
         renderInput={(params) => (
           <TextField {...params} label="Votre Reponse"
           />
