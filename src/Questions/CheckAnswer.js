@@ -1,4 +1,4 @@
-function normalizeString(str) {
+export function normalizeString(str) {
   return str
     .normalize("NFD")            // décompose les caractères accentués en lettre + accent
     .replace(/[\u0300-\u036f]/g, "") // supprime les accents
