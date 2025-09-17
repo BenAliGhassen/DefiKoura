@@ -1,5 +1,4 @@
-const API_KEY = "3c2c2348fce467bcfad3e47cc755b0eb"
-//"2cb491489130e2d9797d7f90b183be7e"
+const API_KEY = 'key'
 
 const LEAGUES = [61, 39, 140, 78, 135, 2]; // Ligue 1, EPL, La Liga, Bundesliga, Serie A, UCL
 const CURRENT_SEASON = 2023;
