@@ -3,10 +3,13 @@ import { ScoreHolder } from "../../Components/ScoreHolderComponent/ScoreHolderCo
 import { useEffect, useState } from "react";
 import { AgentCarrer } from "../../Questions/Agent";
 import carrers from '../../Data/Carrers.json'
-import { FaArrowRight } from "react-icons/fa";
 import AutoComp from "../../Components/AutoCompleteComponent/AutoComp";
+import logosData from '../../Data/Logos.json'
+import TeamLogosComp from "../../Components/TeamLogosComponent/TeamLogosComp";
+import { Reponse } from "../../Questions/CheckAnswer";
+import ButtonComp from "../../Components/ButtonComponent/ButtonComp";
 
-
+const logo = logosData
 function RoundTwo() {
   
     const score1 = localStorage.getItem("ScoreJ1");
@@ -14,26 +17,33 @@ function RoundTwo() {
 
     const [players,SetPlayer] = useState([])
     const [teams,SetTeams] = useState([])
-    const [league,setLeague] = useState([])
+  
     const [Qnumber, setQnumber] = useState(0);
     const [rep, setRep] = useState("")
 
-useEffect(()=>{
-  const carrer = carrers
+    useEffect(()=>{
+      const carrer = carrers
+      
     const rounds = AgentCarrer()
 
     console.log(rounds)
    const playerNames = rounds.map(car => carrer[car].name);
    const teamName = rounds.map(car => carrer[car].teams);
-   const leagues = rounds.map(car => carrer[car].league);
+
 SetPlayer(playerNames);
 SetTeams(teamName)
-setLeague(leagues)
- 
+
 },[])
-console.log(players[0]);
-console.log(teams)
-console.log(league[0])
+const handleReponse = ()=>{
+  console.log(players[Qnumber])
+  const result = Reponse(players[Qnumber],rep)
+  console.log(result)
+
+  setTimeout(() => {
+    setQnumber(prev => prev + 1 )
+  }, 2000);
+
+}
 
 
   return (
@@ -45,11 +55,10 @@ console.log(league[0])
   <div className="mb-5">
     {
     teams[Qnumber]?.map((team, index) => (
-   <div key={index} className="d-inline">
-    <FaArrowRight className="mx-2"/>
-    
-    {team} 
-  </div>
+
+
+      <TeamLogosComp url={logo[team]?.github || ""} team={team} />
+
       ))
       }
   </div>
@@ -58,6 +67,7 @@ console.log(league[0])
       setchoix={setRep} 
       rep={rep}
       />
+      <ButtonComp text={"Repondre"} onClick={handleReponse} />
     </div>
   );
 }

@@ -56,7 +56,7 @@
   {
     "name": "Dennis Bergkamp",
     "teams": [
-      "Inter Milan",
+      "Inter",
       "Arsenal"
     ]
   },
@@ -75,7 +75,7 @@
       "AC Milan",
       "Arsenal",
       "Juventus",
-      "Inter Milan"
+      "Inter"
     ]
   },
   {
@@ -106,7 +106,7 @@
     "name": "Ronaldo",
     "teams": [
       "Barcelona",
-      "Inter Milan",
+      "Inter",
       "Real Madrid",
       "AC Milan"
     ]
@@ -198,7 +198,7 @@
     "teams": [
       "Borussia Monchengladbach",
       "Bayern Munich",
-      "Inter Milan"
+      "Inter"
     ]
   },
   {
@@ -259,7 +259,7 @@
     "teams": [
       "Ajax",
       "Juventus",
-      "Inter Milan",
+      "Inter",
       "Barcelona",
       "AC Milan",
       "Paris Saint Germain",
@@ -479,7 +479,7 @@
   {
     "name": "Roberto Carlos",
     "teams": [
-      "Inter Milan",
+      "Inter",
       "Real Madrid"
     ]
   },
@@ -498,7 +498,7 @@
   {
     "name": "Giuseppe Meazza",
     "teams": [
-      "Inter Milan"
+      "Inter"
     ]
   },
   {
@@ -530,7 +530,7 @@
       "Fiorentina",
       "Juventus",
       "AC Milan",
-      "Inter Milan",
+      "Inter",
       "Bologna",
       "Brescia"
     ]
@@ -538,7 +538,7 @@
   {
     "name": "Giacinto Facchetti",
     "teams": [
-      "Inter Milan"
+      "Inter"
     ]
   },
   {
@@ -659,7 +659,7 @@
     "name": "Jürgen Klinsmann",
     "teams": [
       "VfB Stuttgart",
-      "Inter Milan",
+      "Inter",
       "Bayern Munich",
       "Tottenham Hotspur",
       "Bayern Munich"
@@ -719,7 +719,7 @@
       "Napoli",
       "Barcelona",
       "Manchester United",
-      "Inter Milan",
+      "Inter",
       "Marseille"
     ]
   },
@@ -744,7 +744,7 @@
     "teams": [
       "Monaco",
       "Paris Saint Germain",
-      "Inter Milan"
+      "Inter"
     ]
   },
   {
@@ -830,7 +830,7 @@
       "Real Madrid",
       "Mallorca",
       "Barcelona",
-      "Inter Milan"
+      "Inter"
     ]
   },
   {
@@ -889,13 +889,13 @@
     "teams": [
       "Juventus",
       "Atletico Madrid",
-      "Inter Milan"
+      "Inter"
     ]
   },
   {
     "name": "Ronaldo",
     "teams": [
-      "Inter Milan",
+      "Inter",
       "Real Madrid"
     ]
   },
@@ -904,7 +904,7 @@
     "teams": [
       "Parma",
       "Lazio",
-      "Inter Milan",
+      "Inter",
       "Chelsea"
     ]
   },
@@ -920,7 +920,7 @@
     "teams": [
       "Juventus",
       "AC Milan",
-      "Inter Milan"
+      "Inter"
     ]
   },
   {
@@ -939,21 +939,21 @@
   {
     "name": "Walter Zenga",
     "teams": [
-      "Inter Milan"
+      "Inter"
     ]
   },
   {
     "name": "Lothar Matthäus",
     "teams": [
       "Bayern Munich",
-      "Inter Milan"
+      "Inter"
     ]
   },
   {
     "name": "Jürgen Klinsmann",
     "teams": [
       "VfB Stuttgart",
-      "Inter Milan"
+      "Inter"
     ]
   },
   {
@@ -1036,7 +1036,7 @@
     "teams": [
       "Barcelona",
       "Real Madrid",
-      "Inter Milan"
+      "Inter"
     ]
   },
   {
@@ -1342,7 +1342,7 @@
     "teams": [
       "Arsenal",
       "Juventus",
-      "Inter Milan"
+      "Inter"
     ]
   },
   {
@@ -1562,7 +1562,7 @@
       "Cruzeiro",
       "PSV",
       "Barcelona",
-      "Inter Milan",
+      "Inter",
       "Real Madrid",
       "AC Milan",
       "Corinthians"
@@ -1621,7 +1621,7 @@
     "teams": [
       "Borussia Monchengladbach",
       "Bayern Munich",
-      "Inter Milan",
+      "Inter",
       "Bayern Munich",
       "MetroStars"
     ]
@@ -1637,7 +1637,7 @@
     "name": "Karl-Heinz Rummenigge",
     "teams": [
       "Bayern Munich",
-      "Inter Milan",
+      "Inter",
       "Servette"
     ]
   },
@@ -1668,12 +1668,12 @@
   {
     "name": "Giuseppe Meazza",
     "teams": [
-      "Inter Milan",
+      "Inter",
       "AC Milan",
       "Juventus",
       "Varese",
       "Atalanta",
-      "Inter Milan"
+      "Inter"
     ]
   },
   {
@@ -1781,7 +1781,7 @@
       "Granada",
       "Deportivo La Coruna",
       "Barcelona",
-      "Inter Milan",
+      "Inter",
       "Sampdoria"
     ]
   },
@@ -1841,7 +1841,7 @@
       "Sporting CP",
       "Barcelona",
       "Real Madrid",
-      "Inter Milan"
+      "Inter"
     ]
   },
   {
@@ -2076,7 +2076,7 @@
     "name": "Andrea Pirlo",
     "teams": [
       "Brescia",
-      "Inter Milan",
+      "Inter",
       "Reggina",
       "AC Milan",
       "Juventus",
@@ -2101,7 +2101,7 @@
     "teams": [
       "Napoli",
       "Parma",
-      "Inter Milan",
+      "Inter",
       "Juventus",
       "Real Madrid",
       "Juventus",
@@ -2166,7 +2166,7 @@
       "Malmo FF",
       "Ajax",
       "Juventus",
-      "Inter Milan",
+      "Inter",
       "Barcelona",
       "AC Milan",
       "Paris Saint Germain",
@@ -2235,7 +2235,7 @@
       "Espanyol",
       "Mallorca",
       "Barcelona",
-      "Inter Milan",
+      "Inter",
       "Anzhi Makhachkala",
       "Chelsea",
       "Everton",
@@ -2314,7 +2314,7 @@
     "teams": [
       "Ajax",
       "Real Madrid",
-      "Inter Milan",
+      "Inter",
       "Galatasaray",
       "Nice",
       "Al-Gharafa"
@@ -2421,9 +2421,9 @@
       "Barcelona",
       "Arsenal",
       "Manchester United",
-      "Inter Milan",
+      "Inter",
       "Marseille",
-      "Inter Milan",
+      "Inter",
       "Udinese"
     ]
   },
@@ -2450,7 +2450,7 @@
     "name": "Mario Balotelli",
     "teams": [
       "Lumezzane",
-      "Inter Milan",
+      "Inter",
       "Manchester City",
       "AC Milan",
       "Manchester City",
@@ -2511,7 +2511,7 @@
       "Wolfsburg",
       "Manchester City",
       "Roma",
-      "Inter Milan",
+      "Inter",
       "Fenerbahce"
     ]
   },
@@ -2526,7 +2526,7 @@
       "Juventus",
       "Atletico Madrid",
       "Lazio",
-      "Inter Milan",
+      "Inter",
       "AC Milan",
       "Monaco",
       "AC Milan",
@@ -2541,11 +2541,11 @@
       "River Plate",
       "Parma",
       "Lazio",
-      "Inter Milan",
+      "Inter",
       "Chelsea",
       "AC Milan",
       "Chelsea",
-      "Inter Milan",
+      "Inter",
       "Genoa",
       "Parma"
     ]
@@ -2558,7 +2558,7 @@
       "Boca Juniors",
       "Fiorentina",
       "Roma",
-      "Inter Milan",
+      "Inter",
       "Al-Arabi"
     ]
   },
@@ -2570,7 +2570,7 @@
       "Juventus",
       "AC Milan",
       "Bologna",
-      "Inter Milan",
+      "Inter",
       "Brescia"
     ]
   },
@@ -2589,7 +2589,7 @@
     "name": "Dennis Bergkamp",
     "teams": [
       "Ajax",
-      "Inter Milan",
+      "Inter",
       "Arsenal"
     ]
   },
@@ -2736,7 +2736,7 @@
     "teams": [
       "Stuttgarter Kickers",
       "Stuttgart",
-      "Inter Milan",
+      "Inter",
       "Monaco",
       "Tottenham Hotspur",
       "Bayern Munich",
@@ -2798,9 +2798,9 @@
       "West Bromwich Albion",
       "Everton",
       "Manchester United",
-      "Inter Milan",
+      "Inter",
       "Chelsea",
-      "Inter Milan",
+      "Inter",
       "Roma",
       "Napoli"
     ]
@@ -3002,7 +3002,7 @@
     "teams": [
       "Atalanta",
       "Parma",
-      "Inter Milan"
+      "Inter"
     ]
   },
   {
@@ -3011,14 +3011,14 @@
       "Cagliari",
       "Como",
       "Cagliari",
-      "Inter Milan"
+      "Inter"
     ]
   },
   {
     "name": "Lautaro Martinez",
     "teams": [
       "Racing Club",
-      "Inter Milan"
+      "Inter"
     ]
   },
   {
@@ -3125,7 +3125,7 @@
     "teams": [
       "Real Madrid",
       "Borussia Dortmund",
-      "Inter Milan",
+      "Inter",
       "Paris Saint Germain"
     ]
   },
@@ -3211,7 +3211,7 @@
       "AC Milan",
       "Arsenal",
       "Juventus",
-      "Inter Milan",
+      "Inter",
       "Manchester City"
     ]
   },
@@ -3285,7 +3285,7 @@
       "Spartak Subotica",
       "Spartak Moscow",
       "Manchester United",
-      "Inter Milan"
+      "Inter"
     ]
   },
   {
@@ -4209,7 +4209,7 @@
       "Botafogo",
       "Napoli",
       "Vicenza",
-      "Inter Milan",
+      "Inter",
       "Vicenza"
     ]
   },
@@ -4226,7 +4226,7 @@
     "teams": [
       "Racing Club",
       "Boca Juniors",
-      "Inter Milan",
+      "Inter",
       "Roma",
       "AC Milan",
       "Lecco",
@@ -4240,7 +4240,7 @@
     "teams": [
       "Racing Club",
       "Atalanta",
-      "Inter Milan",
+      "Inter",
       "Fiorentina",
       "Racing Club"
     ]
@@ -4257,7 +4257,7 @@
   {
     "name": "Sandro Mazzola",
     "teams": [
-      "Inter Milan"
+      "Inter"
     ]
   },
   {
@@ -4270,11 +4270,11 @@
   {
     "name": "Roberto Boninsegna",
     "teams": [
-      "Inter Milan",
+      "Inter",
       "Potenza",
       "Varese",
       "Cagliari",
-      "Inter Milan",
+      "Inter",
       "Juventus",
       "Verona"
     ]
@@ -4295,7 +4295,7 @@
       "Massese",
       "Varese",
       "Juventus",
-      "Inter Milan",
+      "Inter",
       "Ascoli",
       "Lugano"
     ]
@@ -4354,7 +4354,7 @@
     "teams": [
       "Latina",
       "Brescia",
-      "Inter Milan",
+      "Inter",
       "Juventus"
     ]
   },
@@ -4439,14 +4439,14 @@
   {
     "name": "Aldo Serena",
     "teams": [
-      "Inter Milan",
+      "Inter",
       "Como",
       "Bari",
-      "Inter Milan",
+      "Inter",
       "AC Milan",
       "Torino",
       "Juventus",
-      "Inter Milan"
+      "Inter"
     ]
   },
   {
@@ -4454,7 +4454,7 @@
     "teams": [
       "Messina",
       "Juventus",
-      "Inter Milan",
+      "Inter",
       "Jubilo Iwata"
     ]
   },
@@ -4463,7 +4463,7 @@
     "teams": [
       "Stuttgarter Kickers",
       "Stuttgart",
-      "Inter Milan",
+      "Inter",
       "Monaco",
       "Tottenham Hotspur",
       "Bayern Munich",
@@ -4496,7 +4496,7 @@
       "Juventus",
       "Atletico Madrid",
       "Lazio",
-      "Inter Milan",
+      "Inter",
       "AC Milan",
       "Monaco",
       "Atalanta",
@@ -4635,7 +4635,7 @@
     "name": "Mauro Icardi",
     "teams": [
       "Sampdoria",
-      "Inter Milan",
+      "Inter",
       "Paris Saint Germain",
       "Galatasaray"
     ]
@@ -5239,7 +5239,7 @@
     "teams": [
       "Genk",
       "Chelsea",
-      "Werder Bremen (loan)",
+      "Werder Bremen",
       "Wolfsburg",
       "Manchester City"
     ]
@@ -5248,7 +5248,7 @@
     "name": "Luka Modrić",
     "teams": [
       "Dinamo Zagreb",
-      "Inter (loan)",
+      "Inter",
       "Tottenham Hotspur",
       "Real Madrid"
     ]
@@ -5256,7 +5256,7 @@
   {
     "name": "Andrés Iniesta",
     "teams": [
-      "Albacete (youth)",
+      "Albacete",
       "Barcelona",
       "Vissel Kobe"
     ]
@@ -5307,7 +5307,7 @@
     "name": "Frank Lampard",
     "teams": [
       "West Ham United",
-      "Swansea (youth)",
+      "Swansea",
       "Chelsea",
       "Manchester City",
       "New York City FC"
@@ -5377,7 +5377,7 @@
   {
     "name": "Alessandro Del Piero",
     "teams": [
-      "Padova (youth)",
+      "Padova",
       "Padova",
       "Juventus",
       "Sydney FC",
@@ -5409,7 +5409,7 @@
       "Sao Paulo",
       "AC Milan",
       "Real Madrid",
-      "AC Milan (return)",
+      "AC Milan",
       "Orlando City"
     ]
   },
@@ -5459,7 +5459,7 @@
     "name": "Kylian Mbappe (duplicate)",
     "teams": [
       "Monaco",
-      "PSG"
+      "Paris Saint Germain"
     ]
   },
   {
@@ -5475,7 +5475,7 @@
   {
     "name": "Paul Pogba",
     "teams": [
-      "Le Havre (youth)",
+      "Le Havre",
       "Manchester United",
       "Juventus",
       "Manchester United"
@@ -5486,7 +5486,7 @@
     "teams": [
       "Santos",
       "Barcelona",
-      "PSG"
+      "Paris Saint Germain"
     ]
   },
   {
@@ -5511,7 +5511,7 @@
       "Manchester United",
       "Real Madrid",
       "LA Galaxy",
-      "AC Milan (loan)",
+      "AC Milan",
       "Paris Saint Germain"
     ]
   },
@@ -5553,8 +5553,7 @@
     "teams": [
       "Real Sociedad",
       "Liverpool",
-      "Real Madrid",
-      "Bayern Munich (coach)"
+      "Real Madrid"
     ]
   },
   {
@@ -5608,7 +5607,7 @@
       "Napoli",
       "Juventus",
       "Chelsea",
-      "Inter Milan"
+      "Inter"
     ]
   },
   {
@@ -5624,10 +5623,10 @@
     "name": "Philippe Coutinho",
     "teams": [
       "Vasco",
-      "Inter (loan)",
+      "Inter",
       "Liverpool",
       "Barcelona",
-      "Bayern Munich (loan)",
+      "Bayern Munich",
       "Aston Villa"
     ]
   },
@@ -5635,18 +5634,18 @@
     "name": "James Rodríguez",
     "teams": [
       "Envigado",
-      "Banfield (youth)",
+      "Banfield",
       "Porto",
       "AS Monaco",
       "Real Madrid",
-      "Bayern Munich (loan)",
+      "Bayern Munich",
       "Everton"
     ]
   },
   {
     "name": "Gareth Bale",
     "teams": [
-      "Southampton (youth)",
+      "Southampton",
       "Tottenham Hotspur",
       "Real Madrid",
       "Los Angeles"
@@ -5707,7 +5706,7 @@
   {
     "name": "Raheem Sterling",
     "teams": [
-      "QPR (youth)",
+      "QPR",
       "Liverpool",
       "Manchester City",
       "Chelsea"
@@ -5730,7 +5729,7 @@
       "El Mokawloon",
       "Basel",
       "Chelsea",
-      "Fiorentina (loan)",
+      "Fiorentina",
       "Roma",
       "Liverpool"
     ]
@@ -5834,7 +5833,7 @@
       "Celta Vigo",
       "Real Madrid",
       "Chelsea",
-      "PSG"
+      "Paris Saint Germain"
     ]
   },
   {
@@ -5843,7 +5842,7 @@
       "Bastia",
       "Lyon",
       "Chelsea",
-      "Real Madrid (loan)",
+      "Real Madrid",
       "AC Milan",
       "Panathinaikos"
     ]
@@ -5892,7 +5891,7 @@
       "AC Milan",
       "Arsenal",
       "Juventus",
-      "Inter Milan",
+      "Inter",
       "Manchester City"
     ]
   },
@@ -5921,7 +5920,7 @@
       "Sevilla",
       "Barcelona",
       "Juventus",
-      "PSG"
+      "Paris Saint Germain"
     ]
   },
   {
@@ -5935,7 +5934,7 @@
   {
     "name": "Marcelo",
     "teams": [
-      "Fluminense (youth)",
+      "Fluminense",
       "Real Madrid",
       "Olympiacos"
     ]
@@ -5975,7 +5974,7 @@
       "Fluminense",
       "AC Milan",
       "Chelsea",
-      "PSG",
+      "Paris Saint Germain",
       "Chelsea"
     ]
   },
@@ -5983,13 +5982,13 @@
     "name": "Marquinhos",
     "teams": [
       "Roma",
-      "PSG"
+      "Paris Saint Germain"
     ]
   },
   {
     "name": "Presnel Kimpembe",
     "teams": [
-      "PSG"
+      "Paris Saint Germain"
     ]
   },
   {
@@ -5998,7 +5997,7 @@
       "Rosario Central",
       "Real Madrid",
       "Manchester United",
-      "PSG",
+      "Paris Saint Germain",
       "Juventus"
     ]
   },
@@ -6038,7 +6037,7 @@
       "Marseille",
       "Newcastle",
       "Nice",
-      "PSG",
+      "Paris Saint Germain",
       "Rennes"
     ]
   },
@@ -6047,8 +6046,8 @@
     "teams": [
       "Bayern Munich",
       "Borussia Dortmund",
-      "Borussia Dortmund return",
-      "Bayern"
+      "Borussia Dortmund",
+      "Bayern Munich"
     ]
   },
   {
@@ -6203,8 +6202,8 @@
     "name": "Álvaro Recoba",
     "teams": [
       "Nacional",
-      "Inter Milan",
-      "Torino (loan)"
+      "Inter",
+      "Torino"
     ]
   },
   {
@@ -6241,7 +6240,7 @@
       "Inter",
       "Monaco",
       "Tottenham",
-      "Bayern"
+      "Bayern Munich"
     ]
   },
   {
@@ -6330,7 +6329,7 @@
   {
     "name": "David De Gea",
     "teams": [
-      "Atletico Madrid (youth)",
+      "Atletico Madrid",
       "Manchester United",
       "Athletic"
     ]
@@ -6400,7 +6399,7 @@
   {
     "name": "Álvaro Arbeloa",
     "teams": [
-      "Real Madrid (youth)",
+      "Real Madrid",
       "Zaragoza",
       "Liverpool",
       "Real Madrid"
@@ -6420,7 +6419,7 @@
     "teams": [
       "Argentinos Juniors",
       "Real Madrid",
-      "Inter Milan",
+      "Inter",
       "Leicester City"
     ]
   },
@@ -6428,7 +6427,7 @@
     "name": "Javier Zanetti",
     "teams": [
       "Banfield",
-      "Inter Milan"
+      "Inter"
     ]
   },
   {
@@ -6592,7 +6591,7 @@
       "Wolfsburg",
       "Manchester City",
       "Roma",
-      "Inter Milan"
+      "Inter"
     ]
   },
   {
@@ -6608,7 +6607,7 @@
     "teams": [
       "Roma",
       "Valencia",
-      "Paris Saint-Germain (loan)"
+      "Paris Saint-Germain"
     ]
   },
   {
@@ -6631,7 +6630,7 @@
     "name": "Kylian Mbappe (dup)",
     "teams": [
       "Monaco",
-      "PSG"
+      "Paris Saint Germain"
     ]
   },
   {
@@ -6721,7 +6720,7 @@
       "Inter",
       "Barcelona",
       "AC Milan",
-      "PSG",
+      "Paris Saint Germain",
       "Man United",
       "LA Galaxy",
       "AC Milan"
@@ -6732,7 +6731,7 @@
     "teams": [
       "Borussia Dortmund",
       "Bayern Munich",
-      "Borussia Dortmund return",
+      "Borussia Dortmund",
       "Eintracht Frankfurt"
     ]
   },
@@ -6753,8 +6752,8 @@
   {
     "name": "Jadon Sancho",
     "teams": [
-      "Watford youth",
-      "Manchester City youth",
+      "Watford",
+      "Manchester City",
       "Borussia Dortmund",
       "Manchester United"
     ]
@@ -6769,7 +6768,7 @@
   {
     "name": "Declan Rice",
     "teams": [
-      "Chelsea (youth)",
+      "Chelsea",
       "West Ham United",
       "Arsenal"
     ]
@@ -6803,7 +6802,7 @@
     "teams": [
       "Ajax",
       "Manchester United",
-      "Everton (loan)"
+      "Everton"
     ]
   },
   {
@@ -6849,7 +6848,7 @@
     "teams": [
       "Fluminense",
       "AC Milan",
-      "PSG",
+      "Paris Saint Germain",
       "Chelsea"
     ]
   },
@@ -6858,7 +6857,7 @@
     "teams": [
       "Admira Wacker",
       "RB Leipzig",
-      "Bayern",
+      "Bayern Munich",
       "Manchester United"
     ]
   },
@@ -6875,7 +6874,7 @@
     "teams": [
       "Ajax",
       "Tottenham Hotspur",
-      "Inter Milan",
+      "Inter",
       "Brentford",
       "Manchester United"
     ]
@@ -6883,7 +6882,7 @@
   {
     "name": "Kasper Schmeichel",
     "teams": [
-      "Manchester City (youth)",
+      "Manchester City",
       "Notts County",
       "Leicester City",
       "Nice"
@@ -6894,7 +6893,7 @@
     "teams": [
       "Ajax",
       "Real Madrid",
-      "Inter Milan",
+      "Inter",
       "Galatasaray"
     ]
   },
@@ -6915,7 +6914,7 @@
       "Benfica",
       "Eintracht Frankfurt",
       "Real Madrid",
-      "Eintracht Frankfurt (loan)"
+      "Eintracht Frankfurt"
     ]
   },
   {
@@ -6923,7 +6922,7 @@
     "teams": [
       "Mallorca",
       "Real Madrid",
-      "PSG"
+      "Paris Saint Germain"
     ]
   },
   {
@@ -6944,7 +6943,7 @@
     "teams": [
       "Benfica",
       "Atletico Madrid",
-      "Chelsea (loan)"
+      "Chelsea"
     ]
   },
   {
@@ -7020,7 +7019,7 @@
       "Nantes",
       "Arsenal",
       "Real Madrid",
-      "PSG",
+      "Paris Saint Germain",
       "Chelsea",
       "Bolton",
       "Shanghai Shenhua"
@@ -7088,7 +7087,7 @@
     "teams": [
       "Real Betis",
       "Valencia",
-      "Real Betis return"
+      "Real Betis"
     ]
   },
   {
@@ -7131,7 +7130,7 @@
   {
     "name": "Sandro Wagner",
     "teams": [
-      "Bayern",
+      "Bayern Munich",
       "Hoffenheim",
       "Hannover"
     ]
@@ -7149,7 +7148,7 @@
     "name": "Adriano",
     "teams": [
       "Flamengo",
-      "Inter Milan",
+      "Inter",
       "Fiorentina",
       "Corinthians"
     ]
@@ -7249,7 +7248,7 @@
   {
     "name": "Héctor Bellerín",
     "teams": [
-      "Barcelona youth",
+      "Barcelona",
       "Arsenal",
       "Real Betis",
       "Barcelona"
@@ -7293,7 +7292,7 @@
     "teams": [
       "Juventus",
       "Bayern Munich",
-      "Juventus (loan)"
+      "Juventus"
     ]
   },
   {
@@ -7309,7 +7308,7 @@
       "Valencia",
       "Manchester City",
       "Barcelona",
-      "PSG"
+      "Paris Saint Germain"
     ]
   },
   {
@@ -7413,7 +7412,7 @@
   {
     "name": "Adama Traoré",
     "teams": [
-      "Barcelona youth",
+      "Barcelona",
       "Aston Villa",
       "Wolverhampton Wanderers",
       "Barcelona"
@@ -7512,7 +7511,7 @@
     "name": "Kylian Mbappé (triplicate)",
     "teams": [
       "Monaco",
-      "PSG"
+      "Paris Saint Germain"
     ]
   },
   {
@@ -7529,7 +7528,7 @@
     "name": "Gianluigi Donnarumma (dup)",
     "teams": [
       "AC Milan",
-      "PSG"
+      "Paris Saint Germain"
     ]
   },
   {
@@ -7544,15 +7543,15 @@
       "Sochaux",
       "Club Brugge",
       "Borussia Dortmund",
-      "Inter Milan",
-      "Bayern"
+      "Inter",
+      "Bayern Munich"
     ]
   },
   {
     "name": "Lautaro Martínez",
     "teams": [
       "Racing Club",
-      "Inter Milan"
+      "Inter"
     ]
   },
   {
@@ -7564,7 +7563,7 @@
       "Barcelona",
       "Arsenal",
       "Manchester United",
-      "Inter Milan"
+      "Inter"
     ]
   },
   {
@@ -7573,8 +7572,8 @@
       "Vecindario",
       "Gimnasia",
       "Sampdoria",
-      "Inter Milan",
-      "PSG"
+      "Inter",
+      "Paris Saint Germain"
     ]
   },
   {
@@ -7593,7 +7592,7 @@
       "Benfica",
       "Real Madrid",
       "Manchester United",
-      "PSG"
+      "Paris Saint Germain"
     ]
   },
   {
@@ -7677,7 +7676,7 @@
     "teams": [
       "San Lorenzo",
       "Como",
-      "Inter Milan"
+      "Inter"
     ]
   },
   {
@@ -7713,7 +7712,7 @@
     "teams": [
       "Sevilla",
       "Real Madrid",
-      "PSG"
+      "Paris Saint Germain"
     ]
   },
   {
@@ -7728,7 +7727,7 @@
     "teams": [
       "Ajax",
       "Real Madrid",
-      "Inter Milan"
+      "Inter"
     ]
   },
   {
@@ -7763,7 +7762,7 @@
     "teams": [
       "Sevilla",
       "Real Madrid",
-      "Inter Milan",
+      "Inter",
       "St. Pauli"
     ]
   },
@@ -7773,7 +7772,7 @@
       "River Plate",
       "Parma",
       "Lazio",
-      "Inter Milan",
+      "Inter",
       "Chelsea"
     ]
   },
@@ -7855,7 +7854,7 @@
     "name": "Marco Verratti (dup)",
     "teams": [
       "Pescara",
-      "PSG"
+      "Paris Saint Germain"
     ]
   },
   {
@@ -7878,7 +7877,7 @@
   {
     "name": "Joaquín Sánchez (dup)",
     "teams": [
-      "Betis",
+      "Real Betis",
       "Valencia",
       "Real Betis"
     ]
@@ -7904,7 +7903,7 @@
       "Danubio",
       "Palermo",
       "Napoli",
-      "PSG",
+      "Paris Saint Germain",
       "Man United",
       "Valencia"
     ]
@@ -7941,7 +7940,7 @@
     "name": "Juan Mata",
     "teams": [
       "Real Oviedo",
-      "Real Madrid youth",
+      "Real Madrid",
       "Valencia",
       "Chelsea",
       "Manchester United",
@@ -8055,8 +8054,8 @@
       "Sochaux",
       "Club Brugge",
       "Borussia Dortmund",
-      "Inter Milan",
-      "Bayern (loan)"
+      "Inter",
+      "Bayern Munich"
     ]
   },
   {
@@ -8114,7 +8113,7 @@
   {
     "name": "Declan Rice (dup)",
     "teams": [
-      "Chelsea youth",
+      "Chelsea",
       "West Ham United",
       "Arsenal"
     ]
@@ -8146,8 +8145,8 @@
   {
     "name": "Jadon Sancho (dup)",
     "teams": [
-      "Watford youth",
-      "Manchester City youth",
+      "Watford",
+      "Manchester City",
       "Borussia Dortmund",
       "Manchester United"
     ]
@@ -8177,7 +8176,7 @@
       "Schalke",
       "Sevilla",
       "Barcelona",
-      "Sevilla return"
+      "Sevilla"
     ]
   },
   {
@@ -8193,7 +8192,7 @@
     "name": "Marco Materazzi",
     "teams": [
       "Perugia",
-      "Inter Milan"
+      "Inter"
     ]
   },
   {
@@ -8212,7 +8211,7 @@
     "teams": [
       "Parma",
       "Juventus",
-      "PSG"
+      "Paris Saint Germain"
     ]
   },
   {
@@ -8285,7 +8284,7 @@
       "Nantes",
       "Arsenal",
       "Real Madrid",
-      "PSG",
+      "Paris Saint Germain",
       "Bolton",
       "Chelsea"
     ]
@@ -8302,7 +8301,7 @@
   {
     "name": "Sebastian Larsson",
     "teams": [
-      "Arsenal youth",
+      "Arsenal",
       "Birmingham",
       "Blackburn",
       "Sunderland",
@@ -8399,7 +8398,7 @@
     "teams": [
       "Zenit Saint Petersburg",
       "Arsenal",
-      "Zenit return"
+      "Zenit"
     ]
   },
   {
@@ -8407,7 +8406,7 @@
     "teams": [
       "Spartak Moscow",
       "Tottenham Hotspur",
-      "Spartak return"
+      "Spartak"
     ]
   },
   {
@@ -8483,7 +8482,7 @@
       "Bastia",
       "Lyon",
       "Chelsea",
-      "Real Madrid (loan)",
+      "Real Madrid",
       "AC Milan"
     ]
   },
@@ -8507,7 +8506,7 @@
   {
     "name": "Gareth Bale (dup)",
     "teams": [
-      "Southampton youth",
+      "Southampton",
       "Tottenham",
       "Real Madrid",
       "LAFC"
@@ -8532,10 +8531,10 @@
   {
     "name": "Samuel Eto'o",
     "teams": [
-      "Real Madrid youth",
+      "Real Madrid",
       "Mallorca",
       "Barcelona",
-      "Inter Milan",
+      "Inter",
       "Anzhi",
       "Chelsea",
       "Everton"
@@ -8550,7 +8549,7 @@
       "Inter",
       "Barcelona",
       "AC Milan",
-      "PSG",
+      "Paris Saint Germain",
       "Man U",
       "LA Galaxy",
       "AC Milan"
@@ -8570,7 +8569,7 @@
     "teams": [
       "Parma",
       "Juventus",
-      "PSG"
+      "Paris Saint Germain"
     ]
   },
   {
@@ -8670,7 +8669,7 @@
       "Inter",
       "Liverpool",
       "Barcelona",
-      "Bayern (loan)",
+      "Bayern",
       "Aston Villa"
     ]
   },
@@ -8740,7 +8739,7 @@
       "Dynamo Kyiv",
       "AC Milan",
       "Chelsea",
-      "Dynamo return"
+      "Dynamo"
     ]
   },
   {
@@ -8823,7 +8822,7 @@
       "Napoli",
       "Juventus",
       "Chelsea",
-      "Inter Milan"
+      "Inter"
     ]
   },
   {
@@ -8850,7 +8849,7 @@
     "teams": [
       "Schalke",
       "Wolfsburg",
-      "PSG",
+      "Paris Saint Germain",
       "Benfica"
     ]
   },
@@ -8916,7 +8915,7 @@
       "Nantes",
       "Arsenal",
       "Real Madrid",
-      "PSG",
+      "Paris Saint Germain",
       "Bolton",
       "Chelsea"
     ]
@@ -8967,7 +8966,7 @@
     "name": "Kylian Mbappé (final dup)",
     "teams": [
       "Monaco",
-      "PSG"
+      "Paris Saint Germain"
     ]
   },
   {
@@ -8990,7 +8989,7 @@
       "Inter",
       "Barcelona",
       "AC Milan",
-      "PSG",
+      "Paris Saint Germain",
       "Man United",
       "LA Galaxy",
       "AC Milan"
