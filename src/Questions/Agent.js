@@ -25,7 +25,7 @@ export const AgentCarrer =()=>{
 var table = []
 var i = 0
 while (i < 5){
-    let nb = Math.floor(Math.random() * 1500)
+    let nb = Math.floor(Math.random() * 998)
     if(!table.includes(nb)){
         table.push(nb)
         i++

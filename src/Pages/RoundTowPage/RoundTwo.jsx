@@ -3,7 +3,9 @@ import { ScoreHolder } from "../../Components/ScoreHolderComponent/ScoreHolderCo
 import { useEffect, useState } from "react";
 import { AgentCarrer } from "../../Questions/Agent";
 import carrers from '../../Data/Carrers.json'
-import { normalizeString } from "../../Questions/CheckAnswer";
+import { FaArrowRight } from "react-icons/fa";
+import AutoComp from "../../Components/AutoCompleteComponent/AutoComp";
+
 
 function RoundTwo() {
   
@@ -12,6 +14,7 @@ function RoundTwo() {
 
     const [players,SetPlayer] = useState([])
     const [teams,SetTeams] = useState([])
+    const [league,setLeague] = useState([])
     const [Qnumber, setQnumber] = useState(0);
     const [rep, setRep] = useState("")
 
@@ -22,28 +25,39 @@ useEffect(()=>{
     console.log(rounds)
    const playerNames = rounds.map(car => carrer[car].name);
    const teamName = rounds.map(car => carrer[car].teams);
+   const leagues = rounds.map(car => carrer[car].league);
 SetPlayer(playerNames);
 SetTeams(teamName)
-
+setLeague(leagues)
  
 },[])
 console.log(players[0]);
 console.log(teams)
+console.log(league[0])
+
+
   return (
     <div>
       <ScoreHolder home={score1} away={score2} />
       <TimerComp Qnumber={Qnumber} ptry={0} setRep={setRep} setQnumber={setQnumber} />
 
 
-  <div>
+  <div className="mb-5">
     {
     teams[Qnumber]?.map((team, index) => (
-   <p key={index} className="d-inline">
-  --&gt; {normalizeString(team)} 
-  </p>
+   <div key={index} className="d-inline">
+    <FaArrowRight className="mx-2"/>
+    
+    {team} 
+  </div>
       ))
       }
   </div>
+      <AutoComp 
+      categ="player" 
+      setchoix={setRep} 
+      rep={rep}
+      />
     </div>
   );
 }
