@@ -720,14 +720,14 @@
     "category": "player"
   },
   {
-    "question": "Quel joueur a remporté la Ligue des Champions avec Barcelone et Paris Saint-Germain ?",
+    "question": "Quel entaineur a remporté la Ligue des Champions avec Barcelone et Paris Saint-Germain ?",
     "options": [
       "Thiago Silva",
       "Lionel Messi",
       "Neymar Jr.",
       "Ronaldinho"
     ],
-    "answer": "Lionel Messi",
+    "answer": "Luis Enrique",
     "difficulty": "moyen",
     "category": "player"
   },

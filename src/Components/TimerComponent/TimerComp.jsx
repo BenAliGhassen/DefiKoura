@@ -1,10 +1,9 @@
 import { useEffect, useState } from 'react';
 import './TimerCss.css'
 import { ResetTimerAudio } from '../../Functions/TimerAudioManager';
+import { Faux } from '../../Alerts/FalseAlert';
 
-function TimerComp({Qnumber,ptry,setRep,setQnumber 
-  
-}) {
+function TimerComp({Qnumber,ptry,setRep,setQnumber,rep}) {
   
   const [time, setTime] = useState(30);
 
@@ -25,6 +24,7 @@ useEffect(() => {
 
 useEffect(() => {
   if (time === 0 && Qnumber < 6) {
+    Faux(rep)
     ResetTimerAudio()
     setTime(30);
     setQnumber(prev => prev + 1);

@@ -11,19 +11,26 @@ import ScoreComp from "../../Components/ScoreComponent/ScoreComp";
 import { Play, Stop } from "../../Functions/TimerAudioManager";
 import { ScoreHolder } from "../../Components/ScoreHolderComponent/ScoreHolderComp";
 import TourComp from "../../Components/TourComponent/TourComp";
+import { RemoveItems } from "../../Functions/RemoveLocalItems";
+import { useNavigate } from "react-router-dom";
+import {ToRound2} from '../../Functions/NextRound'
+import { RiArrowGoBackFill } from "react-icons/ri";
+import ButtonBack from "../../Components/ButtonComponent/ButtonBackComp";
+
 const Questions = agent();
 
 function RoundOne() {
+
   const [Qnumber, setQnumber] = useState(0);
   const [show, setShow] = useState(false);
   const [rep, setRep] = useState("")
   const [ptry,setTry] = useState(0)
   const [scoreJ1 , setScoreJ1] = useState(0)
 const [scoreJ2 , setScoreJ2] = useState(0)
-
 const joueur1 = localStorage.getItem("joueur1")
 const joueur2 = localStorage.getItem("joueur2")
 
+const navigate = useNavigate();
 
 useEffect(() => {
   if (Qnumber >= 6) {
@@ -66,12 +73,16 @@ useEffect(() => {
     (
      <div>
       <ScoreHolder home={scoreJ1} away={scoreJ2}/>
+      <div className="container">
+      <ButtonBack text={<RiArrowGoBackFill />} onClick={RemoveItems} />
       <TourComp joueur={(Qnumber%2 !== 0 ) ? joueur1 : joueur2} />
+      </div>
       <TimerComp 
       Qnumber={Qnumber} 
       ptry={ptry}
       setRep={setRep}
       setQnumber={setQnumber}
+      rep={Questions[Qnumber]?.answer}
       />
       <QustionComp question={Questions[Qnumber]?.question || ""} />
       <AutoComp 
@@ -82,15 +93,17 @@ useEffect(() => {
       <ButtonComp text={"Repondre"} onClick={handleReponse} />
       </div>
     ) : 
-    <ScoreComp 
+      <div>
+            <ScoreComp 
     scoreJ1={scoreJ1} 
     scoreJ2={scoreJ2} 
     joueur1={joueur1} 
      joueur2={joueur2}
     />
-    
+    <ButtonComp text={"Next"} onClick={()=>{ToRound2(scoreJ1,scoreJ2,navigate,"/RoundTwo")}} />
+    <ButtonBack text={<RiArrowGoBackFill />} onClick={RemoveItems} />
+      </div>
     }
-
     </div>
   );
 }

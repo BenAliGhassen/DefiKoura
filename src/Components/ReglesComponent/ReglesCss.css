@@ -16,7 +16,7 @@
     border-radius: 25px;
     text-align: start;
     padding-top: 15px;
-    min-height: 250px;
+    min-height: fit-content;
 
 }
 .textIn{

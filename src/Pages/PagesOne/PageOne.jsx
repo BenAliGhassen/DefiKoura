@@ -1,33 +1,37 @@
 import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
-
 import PlayerComp from '../../Components/PlayerComponent/PlayerComp';
 import NavBarComp from '../../Components/NavBarComponent/NavBarComp';
 import ButtonComp from '../../Components/ButtonComponent/ButtonComp';
 import VersusComp from '../../Components/VersusComponent/VersusComp';
 import FieldComp from '../../Components/TextFieldsComponent/FieldComp';
+import './PageOneCss.css'
 
 function PageOne() {
-  const navigate = useNavigate();
 
- const [joueur1, setJoueur1] = useState("")
+const navigate = useNavigate();
+const [joueur1, setJoueur1] = useState("")
 const [joueur2, setJoueur2] = useState("")
-
 localStorage.setItem("joueur1",joueur1)
 localStorage.setItem("joueur2",joueur2)
+
+
+
   return (
-    <div>
+    <div className='pageOne'>
       <NavBarComp />
 
-      <div className="d-flex justify-content-between px-3 py-2 mt-5">
-        <div>
+      <div className="d-flex justify-content-between flex-wrap px-3 py-2 mt-5">
+        <div className='mx-auto'>
           <PlayerComp />
           <FieldComp nb={1} setPlayer={setJoueur1} />
         </div>
 
+      <div className="w-100 d-block d-md-none"></div>
         <VersusComp />
+      <div className="w-100 d-block d-md-none"></div>
 
-        <div>
+        <div className='mx-auto'>
           <PlayerComp />
           <FieldComp nb={2} setPlayer={setJoueur2}/>
         </div>

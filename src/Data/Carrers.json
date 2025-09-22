@@ -5456,7 +5456,7 @@
     ]
   },
   {
-    "name": "Kylian Mbappe (duplicate)",
+    "name": "Kylian Mbappe",
     "teams": [
       "Monaco",
       "Paris Saint Germain"
@@ -5482,7 +5482,7 @@
     ]
   },
   {
-    "name": "Neymar Jr (duplicate)",
+    "name": "Neymar Jr",
     "teams": [
       "Santos",
       "Barcelona",
@@ -5611,7 +5611,7 @@
     ]
   },
   {
-    "name": "Sergio Agüero (duplicate)",
+    "name": "Sergio Agüero",
     "teams": [
       "Independiente",
       "Atletico Madrid",
@@ -5652,7 +5652,7 @@
     ]
   },
   {
-    "name": "Eden Hazard (duplicate)",
+    "name": "Eden Hazard",
     "teams": [
       "Lille",
       "Chelsea",
@@ -6008,7 +6008,7 @@
       "Juventus",
       "Atletico Madrid",
       "Chelsea",
-      "Juventus (again)"
+      "Juventus"
     ]
   },
   {
@@ -6054,12 +6054,12 @@
     "name": "Luis Enrique",
     "teams": [
       "Sporting Gijon",
-      "Real Madrid (B)",
+      "Real Madrid",
       "Barcelona"
     ]
   },
   {
-    "name": "Sergio Busquets (duplicate)",
+    "name": "Sergio Busquets",
     "teams": [
       "Barcelona"
     ]
@@ -6084,7 +6084,7 @@
     ]
   },
   {
-    "name": "Rivaldo (duplicate)",
+    "name": "Rivaldo",
     "teams": [
       "Palmeiras",
       "Barcelona",
@@ -6173,14 +6173,14 @@
     ]
   },
   {
-    "name": "John Barnes (duplicate)",
+    "name": "John Barnes",
     "teams": [
       "Watford",
       "Liverpool"
     ]
   },
   {
-    "name": "Steven Gerrard (duplicate)",
+    "name": "Steven Gerrard",
     "teams": [
       "Liverpool",
       "LA Galaxy"
@@ -6303,13 +6303,13 @@
     ]
   },
   {
-    "name": "Eusébio (duplicate)",
+    "name": "Eusébio",
     "teams": [
       "Benfica"
     ]
   },
   {
-    "name": "Fernando Torres (duplicate)",
+    "name": "Fernando Torres",
     "teams": [
       "Atletico Madrid",
       "Liverpool",
@@ -6344,7 +6344,7 @@
     ]
   },
   {
-    "name": "Edgar Davids (duplicate)",
+    "name": "Edgar Davids",
     "teams": [
       "Ajax",
       "Juventus",
@@ -6353,7 +6353,7 @@
     ]
   },
   {
-    "name": "Rivaldo (another dup)",
+    "name": "Rivaldo",
     "teams": [
       "Palmeiras",
       "Barcelona"
@@ -6388,7 +6388,7 @@
     ]
   },
   {
-    "name": "Sergio Agüero (another dup)",
+    "name": "Sergio Agüero",
     "teams": [
       "Independiente",
       "Atletico Madrid",
@@ -6475,7 +6475,7 @@
     ]
   },
   {
-    "name": "Kaka (duplicate)",
+    "name": "Kaka",
     "teams": [
       "Sao Paulo",
       "AC Milan",
@@ -6528,7 +6528,7 @@
     ]
   },
   {
-    "name": "Thierry Henry (dup)",
+    "name": "Thierry Henry",
     "teams": [
       "Monaco",
       "Juventus",
@@ -6548,7 +6548,7 @@
     ]
   },
   {
-    "name": "Antoine Griezmann (dup)",
+    "name": "Antoine Griezmann",
     "teams": [
       "Real Sociedad",
       "Atletico Madrid",
@@ -6571,13 +6571,13 @@
     ]
   },
   {
-    "name": "Paul Scholes (dup)",
+    "name": "Paul Scholes",
     "teams": [
       "Manchester United"
     ]
   },
   {
-    "name": "Gianluigi Buffon (dup)",
+    "name": "Gianluigi Buffon",
     "teams": [
       "Parma",
       "Juventus"
@@ -6627,7 +6627,7 @@
     ]
   },
   {
-    "name": "Kylian Mbappe (dup)",
+    "name": "Kylian Mbappe",
     "teams": [
       "Monaco",
       "Paris Saint Germain"
@@ -6643,7 +6643,7 @@
     ]
   },
   {
-    "name": "N'Golo Kanté (dup)",
+    "name": "N'Golo Kanté",
     "teams": [
       "Boulogne",
       "Caen",
@@ -6652,7 +6652,7 @@
     ]
   },
   {
-    "name": "Sergio Agüero (dup again)",
+    "name": "Sergio Agüero",
     "teams": [
       "Independiente",
       "Atletico Madrid",
@@ -6661,21 +6661,21 @@
     ]
   },
   {
-    "name": "Carlos Puyol (dup)",
+    "name": "Carlos Puyol",
     "teams": [
       "Barcelona"
     ]
   },
   {
-    "name": "Luis Enrique (dup)",
+    "name": "Luis Enrique",
     "teams": [
       "Sporting Gijon",
-      "Real Madrid (B)",
+      "Real Madrid",
       "Barcelona"
     ]
   },
   {
-    "name": "Bobby Moore (dup)",
+    "name": "Bobby Moore",
     "teams": [
       "West Ham United",
       "Fulham"
@@ -6712,7 +6712,7 @@
     ]
   },
   {
-    "name": "Zlatan Ibrahimović (dup)",
+    "name": "Zlatan Ibrahimović",
     "teams": [
       "Malmo",
       "Ajax",
@@ -6736,7 +6736,7 @@
     ]
   },
   {
-    "name": "Mats Hummels (dup)",
+    "name": "Mats Hummels",
     "teams": [
       "Bayern Munich",
       "Borussia Dortmund"
@@ -6844,7 +6844,7 @@
     ]
   },
   {
-    "name": "Thiago Silva (dup)",
+    "name": "Thiago Silva",
     "teams": [
       "Fluminense",
       "AC Milan",
@@ -6926,7 +6926,7 @@
     ]
   },
   {
-    "name": "Koke (dup)",
+    "name": "Koke",
     "teams": [
       "Atletico Madrid"
     ]
@@ -6970,7 +6970,7 @@
     ]
   },
   {
-    "name": "Sergio Reguilón (dup)",
+    "name": "Sergio Reguilón",
     "teams": [
       "Real Madrid",
       "Sevilla",
@@ -7047,7 +7047,7 @@
     ]
   },
   {
-    "name": "Diego Forlán (dup)",
+    "name": "Diego Forlán",
     "teams": [
       "Independiente",
       "Manchester United",
@@ -7057,7 +7057,7 @@
     ]
   },
   {
-    "name": "Roberto Mancini (dup)",
+    "name": "Roberto Mancini",
     "teams": [
       "Sampdoria",
       "Lazio",
@@ -7065,7 +7065,7 @@
     ]
   },
   {
-    "name": "Graziano Pellè (dup)",
+    "name": "Graziano Pellè",
     "teams": [
       "Parma",
       "Feyenoord",
@@ -7119,7 +7119,7 @@
     ]
   },
   {
-    "name": "Miroslav Klose (dup)",
+    "name": "Miroslav Klose",
     "teams": [
       "Kaiserslautern",
       "Werder Bremen",
@@ -7163,7 +7163,7 @@
     ]
   },
   {
-    "name": "Claude Makélélé (dup)",
+    "name": "Claude Makélélé",
     "teams": [
       "Nantes",
       "Celta Vigo",
@@ -7199,7 +7199,7 @@
     ]
   },
   {
-    "name": "John Barnes (dup again)",
+    "name": "John Barnes",
     "teams": [
       "Watford",
       "Liverpool",
@@ -7215,7 +7215,7 @@
     ]
   },
   {
-    "name": "Kenny Dalglish (dup)",
+    "name": "Kenny Dalglish",
     "teams": [
       "Celtic",
       "Liverpool"
@@ -7265,7 +7265,7 @@
     ]
   },
   {
-    "name": "Riyad Mahrez (dup)",
+    "name": "Riyad Mahrez",
     "teams": [
       "Le Havre",
       "Leicester City",
@@ -7494,7 +7494,7 @@
     ]
   },
   {
-    "name": "Rúben Neves (dup)",
+    "name": "Rúben Neves",
     "teams": [
       "Wolves",
       "Al-Hilal"
@@ -7508,7 +7508,7 @@
     ]
   },
   {
-    "name": "Kylian Mbappé (triplicate)",
+    "name": "Kylian Mbappé",
     "teams": [
       "Monaco",
       "Paris Saint Germain"
@@ -7525,7 +7525,7 @@
     ]
   },
   {
-    "name": "Gianluigi Donnarumma (dup)",
+    "name": "Gianluigi Donnarumma",
     "teams": [
       "AC Milan",
       "Paris Saint Germain"
@@ -7577,7 +7577,7 @@
     ]
   },
   {
-    "name": "Paulo Dybala (dup)",
+    "name": "Paulo Dybala",
     "teams": [
       "Instituto",
       "Palermo",
@@ -7586,7 +7586,7 @@
     ]
   },
   {
-    "name": "Ángel Di María (dup)",
+    "name": "Ángel Di María",
     "teams": [
       "Rosario Central",
       "Benfica",
@@ -7596,7 +7596,7 @@
     ]
   },
   {
-    "name": "Carlos Tevez (dup)",
+    "name": "Carlos Tevez",
     "teams": [
       "Boca Juniors",
       "West Ham",
@@ -7607,7 +7607,7 @@
     ]
   },
   {
-    "name": "Miroslav Klose (triplicate)",
+    "name": "Miroslav Klose",
     "teams": [
       "Kaiserslautern",
       "Werder Bremen",
@@ -7631,7 +7631,7 @@
     ]
   },
   {
-    "name": "Álvaro Morata (dup)",
+    "name": "Álvaro Morata",
     "teams": [
       "Real Madrid",
       "Juventus",
@@ -7643,7 +7643,7 @@
     "name": "Andriy Yarmolenko",
     "teams": [
       "Dynamo Kyiv",
-      "Dortmund",
+      "Borussia Dortmund",
       "West Ham United"
     ]
   },
@@ -7665,7 +7665,7 @@
     ]
   },
   {
-    "name": "Kingsley Coman (dup)",
+    "name": "Kingsley Coman",
     "teams": [
       "Juventus",
       "Bayern Munich"
@@ -7708,7 +7708,7 @@
     ]
   },
   {
-    "name": "Sergio Ramos (dup)",
+    "name": "Sergio Ramos",
     "teams": [
       "Sevilla",
       "Real Madrid",
@@ -7723,7 +7723,7 @@
     ]
   },
   {
-    "name": "Wesley Sneijder (dup)",
+    "name": "Wesley Sneijder",
     "teams": [
       "Ajax",
       "Real Madrid",
@@ -7767,7 +7767,7 @@
     ]
   },
   {
-    "name": "Hernan Crespo (dup)",
+    "name": "Hernan Crespo",
     "teams": [
       "River Plate",
       "Parma",
@@ -7777,7 +7777,7 @@
     ]
   },
   {
-    "name": "Roberto Baggio (dup)",
+    "name": "Roberto Baggio",
     "teams": [
       "Vicenza",
       "Fiorentina",
@@ -7799,7 +7799,7 @@
     ]
   },
   {
-    "name": "Diego Maradona (dup)",
+    "name": "Diego Maradona",
     "teams": [
       "Argentinos Juniors",
       "Boca Juniors",
@@ -7810,7 +7810,7 @@
     ]
   },
   {
-    "name": "Hernán Crespo (trip)",
+    "name": "Hernán Crespo",
     "teams": [
       "River Plate",
       "Parma",
@@ -7845,20 +7845,20 @@
     ]
   },
   {
-    "name": "Thomas Mueller (dup)",
+    "name": "Thomas Mueller",
     "teams": [
       "Bayern Munich"
     ]
   },
   {
-    "name": "Marco Verratti (dup)",
+    "name": "Marco Verratti",
     "teams": [
       "Pescara",
       "Paris Saint Germain"
     ]
   },
   {
-    "name": "David Trezeguet (dup)",
+    "name": "David Trezeguet",
     "teams": [
       "Platense",
       "Juventus",
@@ -7866,7 +7866,7 @@
     ]
   },
   {
-    "name": "Kaká (triplicate)",
+    "name": "Kaká",
     "teams": [
       "Sao Paulo",
       "AC Milan",
@@ -7875,7 +7875,7 @@
     ]
   },
   {
-    "name": "Joaquín Sánchez (dup)",
+    "name": "Joaquín Sánchez",
     "teams": [
       "Real Betis",
       "Valencia",
@@ -7883,7 +7883,7 @@
     ]
   },
   {
-    "name": "Mats Hummels (trip)",
+    "name": "Mats Hummels",
     "teams": [
       "Bayern Munich",
       "Borussia Dortmund"
@@ -7898,7 +7898,7 @@
     ]
   },
   {
-    "name": "Edinson Cavani (dup)",
+    "name": "Edinson Cavani",
     "teams": [
       "Danubio",
       "Palermo",
@@ -7909,7 +7909,7 @@
     ]
   },
   {
-    "name": "Riyad Mahrez (dup again)",
+    "name": "Riyad Mahrez",
     "teams": [
       "Le Havre",
       "Leicester City",
@@ -7927,7 +7927,7 @@
     ]
   },
   {
-    "name": "Fernando Torres (dup many)",
+    "name": "Fernando Torres",
     "teams": [
       "Atletico Madrid",
       "Liverpool",
@@ -7948,7 +7948,7 @@
     ]
   },
   {
-    "name": "Cesc Fàbregas (dup)",
+    "name": "Cesc Fàbregas",
     "teams": [
       "Arsenal",
       "Barcelona",
@@ -8000,7 +8000,7 @@
     ]
   },
   {
-    "name": "Jordi Alba (dup)",
+    "name": "Jordi Alba",
     "teams": [
       "Barcelona B",
       "Valencia",
@@ -8017,7 +8017,7 @@
     ]
   },
   {
-    "name": "Mesut Özil (dup)",
+    "name": "Mesut Özil",
     "teams": [
       "Schalke",
       "Werder Bremen",
@@ -8049,7 +8049,7 @@
     ]
   },
   {
-    "name": "Ivan Perišić (dup)",
+    "name": "Ivan Perišić",
     "teams": [
       "Sochaux",
       "Club Brugge",
@@ -8067,7 +8067,7 @@
     ]
   },
   {
-    "name": "Ciro Immobile (dup)",
+    "name": "Ciro Immobile",
     "teams": [
       "Genoa",
       "Pescara",
@@ -8077,7 +8077,7 @@
     ]
   },
   {
-    "name": "Hirving Lozano (dup)",
+    "name": "Hirving Lozano",
     "teams": [
       "Pachuca",
       "PSV",
@@ -8104,14 +8104,14 @@
     ]
   },
   {
-    "name": "Mason Mount (dup)",
+    "name": "Mason Mount",
     "teams": [
       "Chelsea",
       "Manchester United"
     ]
   },
   {
-    "name": "Declan Rice (dup)",
+    "name": "Declan Rice",
     "teams": [
       "Chelsea",
       "West Ham United",
@@ -8135,7 +8135,7 @@
     ]
   },
   {
-    "name": "Ferran Torres (dup)",
+    "name": "Ferran Torres",
     "teams": [
       "Valencia",
       "Manchester City",
@@ -8143,7 +8143,7 @@
     ]
   },
   {
-    "name": "Jadon Sancho (dup)",
+    "name": "Jadon Sancho",
     "teams": [
       "Watford",
       "Manchester City",
@@ -8152,7 +8152,7 @@
     ]
   },
   {
-    "name": "Mats Hummels (quad)",
+    "name": "Mats Hummels",
     "teams": [
       "Bayern Munich",
       "Borussia Dortmund"
@@ -8171,7 +8171,7 @@
     ]
   },
   {
-    "name": "Ivan Rakitic (dup)",
+    "name": "Ivan Rakitic",
     "teams": [
       "Schalke",
       "Sevilla",
@@ -8207,7 +8207,7 @@
     ]
   },
   {
-    "name": "Gianluigi Buffon (trip)",
+    "name": "Gianluigi Buffon",
     "teams": [
       "Parma",
       "Juventus",
@@ -8253,7 +8253,7 @@
     ]
   },
   {
-    "name": "Sergio Agüero (many dups)",
+    "name": "Sergio Agüero",
     "teams": [
       "Independiente",
       "Atletico Madrid",
@@ -8262,7 +8262,7 @@
     ]
   },
   {
-    "name": "Riyad Mahrez (dup again)",
+    "name": "Riyad Mahrez",
     "teams": [
       "Le Havre",
       "Leicester",
@@ -8279,7 +8279,7 @@
     ]
   },
   {
-    "name": "Nicolas Anelka (dup)",
+    "name": "Nicolas Anelka",
     "teams": [
       "Nantes",
       "Arsenal",
@@ -8319,7 +8319,7 @@
     ]
   },
   {
-    "name": "Toni Kroos (dup)",
+    "name": "Toni Kroos",
     "teams": [
       "Hansa Rostock",
       "Bayern Munich",
@@ -8327,7 +8327,7 @@
     ]
   },
   {
-    "name": "Lothar Matthäus (dup)",
+    "name": "Lothar Matthäus",
     "teams": [
       "Borussia M'gladbach",
       "Inter",
@@ -8380,13 +8380,13 @@
     ]
   },
   {
-    "name": "Ryan Giggs (dup)",
+    "name": "Ryan Giggs",
     "teams": [
       "Manchester United"
     ]
   },
   {
-    "name": "Thiago Alcantara (dup)",
+    "name": "Thiago Alcantara",
     "teams": [
       "Barcelona",
       "Bayern Munich",
@@ -8448,7 +8448,7 @@
     ]
   },
   {
-    "name": "Emmanuel Petit (dup)",
+    "name": "Emmanuel Petit",
     "teams": [
       "AS Monaco",
       "Arsenal",
@@ -8477,7 +8477,7 @@
     ]
   },
   {
-    "name": "Michael Essien (dup)",
+    "name": "Michael Essien",
     "teams": [
       "Bastia",
       "Lyon",
@@ -8496,7 +8496,7 @@
     ]
   },
   {
-    "name": "Peter Schmeichel (dup)",
+    "name": "Peter Schmeichel",
     "teams": [
       "Brøndby",
       "Manchester United",
@@ -8504,7 +8504,7 @@
     ]
   },
   {
-    "name": "Gareth Bale (dup)",
+    "name": "Gareth Bale",
     "teams": [
       "Southampton",
       "Tottenham",
@@ -8513,16 +8513,16 @@
     ]
   },
   {
-    "name": "Xabi Alonso (dup)",
+    "name": "Xabi Alonso",
     "teams": [
       "Real Sociedad",
       "Liverpool",
       "Real Madrid",
-      "Bayern Munich (coach)"
+      "Bayern Munich"
     ]
   },
   {
-    "name": "Andreas Iniesta (dup)",
+    "name": "Andreas Iniesta",
     "teams": [
       "Barcelona",
       "Vissel Kobe"
@@ -8541,7 +8541,7 @@
     ]
   },
   {
-    "name": "Ibrahimović (many dups)",
+    "name": "Ibrahimović",
     "teams": [
       "Malmo",
       "Ajax",
@@ -8556,7 +8556,7 @@
     ]
   },
   {
-    "name": "Alessandro Del Piero (dup)",
+    "name": "Alessandro Del Piero",
     "teams": [
       "Padova",
       "Juventus",
@@ -8565,7 +8565,7 @@
     ]
   },
   {
-    "name": "Gianluigi Buffon (dup again)",
+    "name": "Gianluigi Buffon",
     "teams": [
       "Parma",
       "Juventus",
@@ -8573,7 +8573,7 @@
     ]
   },
   {
-    "name": "Rivaldo (dup)",
+    "name": "Rivaldo",
     "teams": [
       "Palmeiras",
       "Barcelona",
@@ -8581,7 +8581,7 @@
     ]
   },
   {
-    "name": "Roberto Carlos (dup)",
+    "name": "Roberto Carlos",
     "teams": [
       "Palmeiras",
       "Inter",
@@ -8590,7 +8590,7 @@
     ]
   },
   {
-    "name": "Cafu (dup)",
+    "name": "Cafu",
     "teams": [
       "Bangu",
       "Palmeiras",
@@ -8599,7 +8599,7 @@
     ]
   },
   {
-    "name": "Rivaldo (more)",
+    "name": "Rivaldo",
     "teams": [
       "Palmeiras",
       "Barcelona",
@@ -8607,7 +8607,7 @@
     ]
   },
   {
-    "name": "Gennaro Gattuso (dup)",
+    "name": "Gennaro Gattuso",
     "teams": [
       "Perugia",
       "Rangers",
@@ -8629,7 +8629,7 @@
     ]
   },
   {
-    "name": "Graziano Pelle (dup)",
+    "name": "Graziano Pelle",
     "teams": [
       "Parma",
       "Feyenoord",
@@ -8647,7 +8647,7 @@
     ]
   },
   {
-    "name": "Leroy Sané (dup)",
+    "name": "Leroy Sané",
     "teams": [
       "Schalke",
       "Manchester City",
@@ -8655,7 +8655,7 @@
     ]
   },
   {
-    "name": "Serge Gnabry (dup)",
+    "name": "Serge Gnabry",
     "teams": [
       "Arsenal",
       "Werder Bremen",
@@ -8663,7 +8663,7 @@
     ]
   },
   {
-    "name": "Philippe Coutinho (dup)",
+    "name": "Philippe Coutinho",
     "teams": [
       "Vasco",
       "Inter",
@@ -8674,7 +8674,7 @@
     ]
   },
   {
-    "name": "Bernardo Silva (dup)",
+    "name": "Bernardo Silva",
     "teams": [
       "Benfica",
       "Monaco",
@@ -8682,7 +8682,7 @@
     ]
   },
   {
-    "name": "Ilkay Gündogan (dup)",
+    "name": "Ilkay Gündogan",
     "teams": [
       "1. FC Nurnberg",
       "Borussia Dortmund",
@@ -8734,7 +8734,7 @@
     ]
   },
   {
-    "name": "Andriy Shevchenko (dup)",
+    "name": "Andriy Shevchenko",
     "teams": [
       "Dynamo Kyiv",
       "AC Milan",
@@ -8743,7 +8743,7 @@
     ]
   },
   {
-    "name": "Klaas-Jan Huntelaar (dup)",
+    "name": "Klaas-Jan Huntelaar",
     "teams": [
       "De Graafschap",
       "Heerenveen",
@@ -8753,7 +8753,7 @@
     ]
   },
   {
-    "name": "Pierre-Emerick Aubameyang (dup)",
+    "name": "Pierre-Emerick Aubameyang",
     "teams": [
       "Milan",
       "Saint-Etienne",
@@ -8764,7 +8764,7 @@
     ]
   },
   {
-    "name": "Francesco Totti (dup)",
+    "name": "Francesco Totti",
     "teams": [
       "AS Roma"
     ]
@@ -8788,7 +8788,7 @@
     ]
   },
   {
-    "name": "Hristo Stoichkov (dup)",
+    "name": "Hristo Stoichkov",
     "teams": [
       "CSKA Sofia",
       "Barcelona",
@@ -8796,7 +8796,7 @@
     ]
   },
   {
-    "name": "Rivaldo (yet again)",
+    "name": "Rivaldo",
     "teams": [
       "Palmeiras",
       "Barcelona",
@@ -8815,7 +8815,7 @@
     ]
   },
   {
-    "name": "Gonzalo Higuaín (dup)",
+    "name": "Gonzalo Higuaín",
     "teams": [
       "River Plate",
       "Real Madrid",
@@ -8826,7 +8826,7 @@
     ]
   },
   {
-    "name": "Petr Cech (dup)",
+    "name": "Petr Cech",
     "teams": [
       "Sparta Prague",
       "Chmel",
@@ -8854,13 +8854,13 @@
     ]
   },
   {
-    "name": "Koke (trip)",
+    "name": "Koke",
     "teams": [
       "Atletico Madrid"
     ]
   },
   {
-    "name": "Sergio Agüero (ultimate dup)",
+    "name": "Sergio Agüero",
     "teams": [
       "Independiente",
       "Atletico Madrid",
@@ -8869,7 +8869,7 @@
     ]
   },
   {
-    "name": "Ronaldo (Brazil) (dup)",
+    "name": "Ronaldo",
     "teams": [
       "Cruzeiro",
       "PSV",
@@ -8910,7 +8910,7 @@
     ]
   },
   {
-    "name": "Nicolas Anelka (trip)",
+    "name": "Nicolas Anelka",
     "teams": [
       "Nantes",
       "Arsenal",
@@ -8932,14 +8932,14 @@
     ]
   },
   {
-    "name": "John Terry (dup)",
+    "name": "John Terry",
     "teams": [
       "Chelsea",
       "Aston Villa"
     ]
   },
   {
-    "name": "Rio Ferdinand (dup)",
+    "name": "Rio Ferdinand",
     "teams": [
       "West Ham United",
       "Leeds United",
@@ -8948,7 +8948,7 @@
     ]
   },
   {
-    "name": "Nemanja Vidić (dup)",
+    "name": "Nemanja Vidić",
     "teams": [
       "Spartak Subotica",
       "Red Star Belgrade",
@@ -8956,21 +8956,21 @@
     ]
   },
   {
-    "name": "Gianluigi Donnarumma (dup)",
+    "name": "Gianluigi Donnarumma",
     "teams": [
       "AC Milan",
       "Paris Saint Germain"
     ]
   },
   {
-    "name": "Kylian Mbappé (final dup)",
+    "name": "Kylian Mbappé",
     "teams": [
       "Monaco",
       "Paris Saint Germain"
     ]
   },
   {
-    "name": "Cristiano Ronaldo (final dup)",
+    "name": "Cristiano Ronaldo",
     "teams": [
       "Sporting CP",
       "Manchester United",
@@ -8981,7 +8981,7 @@
     ]
   },
   {
-    "name": "Zlatan Ibrahimović (final dup)",
+    "name": "Zlatan Ibrahimović",
     "teams": [
       "Malmo",
       "Ajax",

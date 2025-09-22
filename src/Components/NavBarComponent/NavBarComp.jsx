@@ -11,6 +11,7 @@ function NavBarComp() {
         <Navbar.Brand href="/" className='Logo'>
             <img src={ball} alt='football' className='ball'/>
             <h1 className='title m-auto'>DefiKoura</h1>
+            <h6 className='beta mt-4 mx-2'>Beta</h6>
              </Navbar.Brand>
         <Navbar.Toggle />
       </Container>
