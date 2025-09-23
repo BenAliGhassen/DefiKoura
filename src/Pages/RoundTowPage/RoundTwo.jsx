@@ -1,4 +1,5 @@
 import TimerComp from "../../Components/TimerComponent/TimerComp";
+import { useNavigate } from 'react-router-dom';
 import { ScoreHolder } from "../../Components/ScoreHolderComponent/ScoreHolderComp";
 import { useEffect, useState } from "react";
 import { AgentCarrer } from "../../Questions/Agent";
@@ -12,7 +13,6 @@ import { Correct } from "../../Alerts/CorrectAlert";
 import { Faux } from "../../Alerts/FalseAlert";
 import { Play, Stop } from "../../Functions/TimerAudioManager";
 import ScoreComp from "../../Components/ScoreComponent/ScoreComp";
-import { useNavigate } from "react-router-dom";
 import {ToRound2} from '../../Functions/NextRound'
 import ButtonBack from "../../Components/ButtonComponent/ButtonBackComp";
 import { RemoveItems } from "../../Functions/RemoveLocalItems";
@@ -23,8 +23,8 @@ const logo = logosData
 function RoundTwo() {
   
   const navigate = useNavigate();
-    const score1 = parseInt(localStorage.getItem("ScoreJ1")) ;
-    const score2 =parseInt(localStorage.getItem("ScoreJ2")) ;
+    const score1 = parseInt(localStorage.getItem("ScoreJ1") || 0) ;
+    const score2 =parseInt(localStorage.getItem("ScoreJ2") || 0) ;
     const joueur1 = localStorage.getItem("joueur1")
     const joueur2 = localStorage.getItem("joueur2")
     const [players,SetPlayer] = useState([])
@@ -40,11 +40,12 @@ function RoundTwo() {
 useEffect(()=>{
       const carrer = carrers
       
-    const rounds = AgentCarrer()
+    const rounds = AgentCarrer() || []
 
-    console.log(rounds)
-   const playerNames = rounds.map(car => carrer[car].name);
-   const teamName = rounds.map(car => carrer[car].teams);
+  const validRounds = rounds.filter(car => carrer[car])
+
+  const playerNames = validRounds.map(car => carrer[car].name)
+  const teamName = validRounds.map(car => carrer[car].teams)
 
 SetPlayer(playerNames);
 SetTeams(teamName)
@@ -96,8 +97,8 @@ const handleReponse = ()=>{
     if(ptry%2 === 0){
       Faux("Try again")
     }else{
-      Faux(players[Qnumber])
       setNext(prev => prev + 1)
+      Faux(players[Qnumber])
     }
     setTry(prev => prev + 1)
     
@@ -116,6 +117,7 @@ const handleReponse = ()=>{
       setRep={setRep} 
       setQnumber={setQnumber} 
       rep={players[Qnumber]}
+      guess={ptry}
       />
 
   <div className="mb-5">
