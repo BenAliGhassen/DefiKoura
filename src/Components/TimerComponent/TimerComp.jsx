@@ -24,10 +24,7 @@ useEffect(() => {
 
 useEffect(() => {
   if (time === 0 && Qnumber < 6) {
-    console.log(guess)
-    if(guess%2 === 0){
-      setQnumber(prev => prev + 1);
-    }
+   setQnumber(prev => prev + 1);
     setTime(30);
     Faux(rep)
     ResetTimerAudio()
@@ -51,7 +48,10 @@ useEffect(() => {
  // eslint-disable-next-line react-hooks/exhaustive-deps
  },[ptry])
 
-
+useEffect(()=>{
+  if(guess !== 2 && time <= 10) setTime(prev => prev + 8)
+// eslint-disable-next-line react-hooks/exhaustive-deps
+},[guess])
 
 
   const widthPercent = (time / 30) * 100;

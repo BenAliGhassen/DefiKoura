@@ -103,7 +103,6 @@ const handleReponse = ()=>{
     setTry(prev => prev + 1)
     
   }}
-
   return (
     <div>
     {Qnumber < 5 ? 
