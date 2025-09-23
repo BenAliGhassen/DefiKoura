@@ -1,5 +1,5 @@
 // Replace with your Football-Data.org API key
-const API_KEY = "835f2d54426541719c94b847649cb36f";
+const API_KEY = "key";
 
 /**
  * Fetch all teams for a given competition (league) and return a map: team name -> logo URL
