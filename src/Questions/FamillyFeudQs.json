@@ -1,0 +1,563 @@
+[
+  {
+    "question": "Qui est le joueur portugais le plus célèbre ?",
+    "category": "player",
+    "answers": [
+      {"answer": "Cristiano Ronaldo", "points": 50},
+      {"answer": "Luís Figo", "points": 20},
+      {"answer": "Eusébio", "points": 15},
+      {"answer": "Rui Costa", "points": 10},
+      {"answer": "Pepe", "points": 5}
+    ]
+  },
+  {
+    "question": "Quelle équipe a remporté le plus de Coupes du Monde FIFA ?",
+    "category": "team",
+    "answers": [
+      {"answer": "Brésil", "points": 50},
+      {"answer": "Allemagne", "points": 20},
+      {"answer": "Italie", "points": 15},
+      {"answer": "Argentine", "points": 10},
+      {"answer": "Uruguay", "points": 5}
+    ]
+  },
+  {
+    "question": "Nomme un pays qui a accueilli la Coupe du Monde FIFA",
+    "category": "country",
+    "answers": [
+      {"answer": "France", "points": 20},
+      {"answer": "Brésil", "points": 18},
+      {"answer": "Allemagne", "points": 15},
+      {"answer": "Afrique du Sud", "points": 12},
+      {"answer": "Qatar", "points": 10}
+    ]
+  },
+  {
+    "question": "Nomme une équipe nationale européenne",
+    "category": "team",
+    "answers": [
+      {"answer": "France", "points": 30},
+      {"answer": "Allemagne", "points": 25},
+      {"answer": "Espagne", "points": 20},
+      {"answer": "Italie", "points": 15},
+      {"answer": "Portugal", "points": 10}
+    ]
+  },
+  {
+    "question": "Nomme une équipe nationale sud-américaine",
+    "category": "team",
+    "answers": [
+      {"answer": "Brésil", "points": 35},
+      {"answer": "Argentine", "points": 30},
+      {"answer": "Uruguay", "points": 15},
+      {"answer": "Colombie", "points": 10},
+      {"answer": "Chili", "points": 10}
+    ]
+  },
+  {
+    "question": "Nomme une équipe nationale africaine",
+    "category": "team",
+    "answers": [
+      {"answer": "Sénégal", "points": 25},
+      {"answer": "Maroc", "points": 25},
+      {"answer": "Cameroun", "points": 20},
+      {"answer": "Nigéria", "points": 15},
+      {"answer": "Tunisie", "points": 15}
+    ]
+  },
+  {
+    "question": "Nomme une équipe nationale asiatique",
+    "category": "team",
+    "answers": [
+      {"answer": "Japon", "points": 30},
+      {"answer": "Corée du Sud", "points": 25},
+      {"answer": "Iran", "points": 20},
+      {"answer": "Arabie Saoudite", "points": 15},
+      {"answer": "Australie", "points": 10}
+    ]
+  },
+  {
+    "question": "Nomme un club anglais célèbre",
+    "category": "team",
+    "answers": [
+      {"answer": "Manchester United", "points": 30},
+      {"answer": "Liverpool", "points": 25},
+      {"answer": "Chelsea", "points": 20},
+      {"answer": "Arsenal", "points": 15},
+      {"answer": "Manchester City", "points": 10}
+    ]
+  },
+  {
+    "question": "Nomme un club espagnol célèbre",
+    "category": "team",
+    "answers": [
+      {"answer": "Real Madrid", "points": 35},
+      {"answer": "FC Barcelone", "points": 35},
+      {"answer": "Atlético Madrid", "points": 15},
+      {"answer": "Sevilla FC", "points": 10},
+      {"answer": "Valence CF", "points": 5}
+    ]
+  },
+  {
+    "question": "Nomme un club italien célèbre",
+    "category": "team",
+    "answers": [
+      {"answer": "Juventus", "points": 30},
+      {"answer": "AC Milan", "points": 25},
+      {"answer": "Inter Milan", "points": 20},
+      {"answer": "AS Roma", "points": 15},
+      {"answer": "Napoli", "points": 10}
+    ]
+  },
+  {
+    "question": "Nomme un club français célèbre",
+    "category": "team",
+    "answers": [
+      {"answer": "Paris Saint-Germain", "points": 40},
+      {"answer": "Olympique de Marseille", "points": 25},
+      {"answer": "Olympique Lyonnais", "points": 15},
+      {"answer": "AS Monaco", "points": 12},
+      {"answer": "Lille OSC", "points": 8}
+    ]
+  },
+  {
+    "question": "Nomme un club allemand célèbre",
+    "category": "team",
+    "answers": [
+      {"answer": "Bayern Munich", "points": 45},
+      {"answer": "Borussia Dortmund", "points": 25},
+      {"answer": "RB Leipzig", "points": 10},
+      {"answer": "Bayer Leverkusen", "points": 10},
+      {"answer": "Schalke 04", "points": 10}
+    ]
+  },
+  {
+    "question": "Nomme un club portugais célèbre",
+    "category": "team",
+    "answers": [
+      {"answer": "Benfica", "points": 30},
+      {"answer": "FC Porto", "points": 30},
+      {"answer": "Sporting CP", "points": 20},
+      {"answer": "Braga", "points": 10},
+      {"answer": "Boavista", "points": 10}
+    ]
+  },
+  {
+    "question": "Nomme un club néerlandais célèbre",
+    "category": "team",
+    "answers": [
+      {"answer": "Ajax Amsterdam", "points": 35},
+      {"answer": "PSV Eindhoven", "points": 25},
+      {"answer": "Feyenoord", "points": 20},
+      {"answer": "AZ Alkmaar", "points": 10},
+      {"answer": "FC Twente", "points": 10}
+    ]
+  },
+  {
+    "question": "Nomme un joueur légendaire mondial",
+    "category": "player",
+    "answers": [
+      {"answer": "Pelé", "points": 30},
+      {"answer": "Diego Maradona", "points": 25},
+      {"answer": "Johan Cruyff", "points": 20},
+      {"answer": "Zinédine Zidane", "points": 15},
+      {"answer": "Ronaldo (Nazário)", "points": 10}
+    ]
+  },
+  {
+    "question": "Nomme un attaquant célèbre actuel",
+    "category": "player",
+    "answers": [
+      {"answer": "Erling Haaland", "points": 30},
+      {"answer": "Kylian Mbappé", "points": 25},
+      {"answer": "Robert Lewandowski", "points": 20},
+      {"answer": "Karim Benzema", "points": 15},
+      {"answer": "Harry Kane", "points": 10}
+    ]
+  },
+  {
+    "question": "Nomme un milieu de terrain célèbre",
+    "category": "player",
+    "answers": [
+      {"answer": "Luka Modrić", "points": 30},
+      {"answer": "Xavi", "points": 25},
+      {"answer": "Andrés Iniesta", "points": 20},
+      {"answer": "Steven Gerrard", "points": 15},
+      {"answer": "Paul Pogba", "points": 10}
+    ]
+  },
+  {
+    "question": "Nomme un défenseur légendaire",
+    "category": "player",
+    "answers": [
+      {"answer": "Paolo Maldini", "points": 30},
+      {"answer": "Franco Baresi", "points": 25},
+      {"answer": "Sergio Ramos", "points": 20},
+      {"answer": "Bobby Moore", "points": 15},
+      {"answer": "Virgil van Dijk", "points": 10}
+    ]
+  },
+  {
+    "question": "Nomme un gardien célèbre",
+    "category": "player",
+    "answers": [
+      {"answer": "Gianluigi Buffon", "points": 30},
+      {"answer": "Iker Casillas", "points": 25},
+      {"answer": "Manuel Neuer", "points": 20},
+      {"answer": "Lev Yashin", "points": 15},
+      {"answer": "Alisson Becker", "points": 10}
+    ]
+  },
+  {
+    "question": "Qui est l'entraîneur le plus titré en club ?",
+    "category": "coach",
+    "answers": [
+      {"answer": "Sir Alex Ferguson", "points": 40},
+      {"answer": "Pep Guardiola", "points": 25},
+      {"answer": "Carlo Ancelotti", "points": 15},
+      {"answer": "José Mourinho", "points": 10},
+      {"answer": "Vicente del Bosque", "points": 10}
+    ]
+  },
+  {
+    "question": "Nomme un entraîneur actuel très connu",
+    "category": "coach",
+    "answers": [
+      {"answer": "Pep Guardiola", "points": 35},
+      {"answer": "Jürgen Klopp", "points": 30},
+      {"answer": "Carlo Ancelotti", "points": 20},
+      {"answer": "José Mourinho", "points": 10},
+      {"answer": "Diego Simeone", "points": 5}
+    ]
+  },
+  {
+    "question": "Nomme un championnat européen majeur",
+    "category": "championship",
+    "answers": [
+      {"answer": "Premier League", "points": 35},
+      {"answer": "La Liga", "points": 30},
+      {"answer": "Serie A", "points": 20},
+      {"answer": "Bundesliga", "points": 10},
+      {"answer": "Ligue 1", "points": 5}
+    ]
+  },
+  {
+    "question": "Nomme un championnat hors d'Europe",
+    "category": "championship",
+    "answers": [
+      {"answer": "Brasileirão", "points": 30},
+      {"answer": "MLS (USA)", "points": 25},
+      {"answer": "Liga MX (Mexique)", "points": 20},
+      {"answer": "J-League (Japon)", "points": 15},
+      {"answer": "Argentine Primera", "points": 10}
+    ]
+  },
+  {
+    "question": "Nomme une coupe internationale inter-équipes nationales",
+    "category": "cup",
+    "answers": [
+      {"answer": "Coupe du Monde (FIFA World Cup)", "points": 40},
+      {"answer": "Euro", "points": 25},
+      {"answer": "Copa América", "points": 15},
+      {"answer": "CAN (Coupe d'Afrique)", "points": 10},
+      {"answer": "Gold Cup (CONCACAF)", "points": 10}
+    ]
+  },
+  {
+    "question": "Nomme une compétition interclubs prestigieuse",
+    "category": "cup",
+    "answers": [
+      {"answer": "Ligue des Champions (UEFA)", "points": 45},
+      {"answer": "Copa Libertadores", "points": 20},
+      {"answer": "Europa League", "points": 15},
+      {"answer": "Coupe du Monde des Clubs", "points": 10},
+      {"answer": "Supercoupe d'Europe", "points": 10}
+    ]
+  },
+  {
+    "question": "Nomme un club sud-américain célèbre",
+    "category": "team",
+    "answers": [
+      {"answer": "Boca Juniors", "points": 30},
+      {"answer": "River Plate", "points": 30},
+      {"answer": "Flamengo", "points": 20},
+      {"answer": "Santos", "points": 10},
+      {"answer": "Corinthians", "points": 10}
+    ]
+  },
+  {
+    "question": "Nomme un joueur africain célèbre",
+    "category": "player",
+    "answers": [
+      {"answer": "Samuel Eto'o", "points": 30},
+      {"answer": "Didier Drogba", "points": 25},
+      {"answer": "George Weah", "points": 20},
+      {"answer": "Yaya Touré", "points": 15},
+      {"answer": "Sadio Mané", "points": 10}
+    ]
+  },
+  {
+    "question": "Nomme un trophée individuel important",
+    "category": "award",
+    "answers": [
+      {"answer": "Ballon d'Or", "points": 50},
+      {"answer": "Soulier d'Or", "points": 20},
+      {"answer": "FIFA The Best", "points": 15},
+      {"answer": "Prix Puskás", "points": 10},
+      {"answer": "Gant d'or (meilleur gardien)", "points": 5}
+    ]
+  },
+  {
+    "question": "Nomme un stade mondialement célèbre",
+    "category": "stadium",
+    "answers": [
+      {"answer": "Camp Nou", "points": 25},
+      {"answer": "Santiago Bernabéu", "points": 25},
+      {"answer": "Old Trafford", "points": 20},
+      {"answer": "San Siro", "points": 15},
+      {"answer": "Maracanã", "points": 15}
+    ]
+  },
+  {
+    "question": "Nomme une grande rivalité de clubs",
+    "category": "rivalry",
+    "answers": [
+      {"answer": "El Clásico (Real - Barça)", "points": 40},
+      {"answer": "Manchester United - Liverpool", "points": 25},
+      {"answer": "Derby de Milan (Inter - AC Milan)", "points": 15},
+      {"answer": "Superclásico (Boca - River)", "points": 10},
+      {"answer": "Derby Roma - Lazio", "points": 10}
+    ]
+  },
+  {
+    "question": "Qui est le joueur le plus célèbre du Portugal ?",
+    "category": "player",
+    "answers": [
+      {"answer": "Cristiano Ronaldo", "points": 60},
+      {"answer": "Luís Figo", "points": 15},
+      {"answer": "Eusébio", "points": 10},
+      {"answer": "Bernardo Silva", "points": 10},
+      {"answer": "Bruno Fernandes", "points": 5}
+    ]
+  },
+  {
+    "question": "Quelle équipe a remporté le plus de Ligues des Champions UEFA ?",
+    "category": "team",
+    "answers": [
+      {"answer": "Real Madrid", "points": 55},
+      {"answer": "AC Milan", "points": 15},
+      {"answer": "Liverpool", "points": 10},
+      {"answer": "Bayern Munich", "points": 10},
+      {"answer": "Barcelona", "points": 10}
+    ]
+  },
+  {
+    "question": "Nomme un club africain renommé",
+    "category": "team",
+    "answers": [
+      {"answer": "Al Ahly (Égypte)", "points": 35},
+      {"answer": "Espérance de Tunis", "points": 25},
+      {"answer": "Wydad Casablanca", "points": 15},
+      {"answer": "TP Mazembe", "points": 15},
+      {"answer": "Raja Casablanca", "points": 10}
+    ]
+  },
+  {
+    "question": "Nomme un joueur connu pour son dribble",
+    "category": "player",
+    "answers": [
+      {"answer": "Lionel Messi", "points": 35},
+      {"answer": "Neymar", "points": 25},
+      {"answer": "Ronaldinho", "points": 20},
+      {"answer": "Diego Maradona", "points": 10},
+      {"answer": "Garrincha", "points": 10}
+    ]
+  },
+  {
+    "question": "Nomme un club turc célèbre",
+    "category": "team",
+    "answers": [
+      {"answer": "Galatasaray", "points": 30},
+      {"answer": "Fenerbahçe", "points": 25},
+      {"answer": "Beşiktaş", "points": 20},
+      {"answer": "Trabzonspor", "points": 15},
+      {"answer": "Başakşehir", "points": 10}
+    ]
+  },
+  {
+    "question": "Nomme un joueur ayant marqué dans une finale de Coupe du Monde",
+    "category": "player",
+    "answers": [
+      {"answer": "Geoff Hurst (Angleterre)", "points": 25},
+      {"answer": "Pelé (Brésil)", "points": 25},
+      {"answer": "Zinédine Zidane (France)", "points": 20},
+      {"answer": "Mario Kempes (Argentine)", "points": 15},
+      {"answer": "Kylian Mbappé (France)", "points": 15}
+    ]
+  },
+  {
+    "question": "Nomme un club ayant remporté la Copa Libertadores",
+    "category": "team",
+    "answers": [
+      {"answer": "Independiente", "points": 25},
+      {"answer": "Boca Juniors", "points": 25},
+      {"answer": "River Plate", "points": 20},
+      {"answer": "Flamengo", "points": 15},
+      {"answer": "Santos", "points": 15}
+    ]
+  },
+  {
+    "question": "Nomme un pays qui a accueilli la Coupe du Monde plus d'une fois",
+    "category": "country",
+    "answers": [
+      {"answer": "Mexique", "points": 30},
+      {"answer": "Italie", "points": 25},
+      {"answer": "France", "points": 20},
+      {"answer": "Allemagne", "points": 15},
+      {"answer": "Brésil", "points": 10}
+    ]
+  },
+  {
+    "question": "Nomme une nation qui a perdu une finale de Coupe du Monde",
+    "category": "team",
+    "answers": [
+      {"answer": "Pays-Bas", "points": 30},
+      {"answer": "Croatie", "points": 25},
+      {"answer": "Hongrie", "points": 15},
+      {"answer": "Suède", "points": 15},
+      {"answer": "Tchécoslovaquie", "points": 15}
+    ]
+  },
+  {
+    "question": "Nomme un joueur célèbre pour tirer les penalties",
+    "category": "player",
+    "answers": [
+      {"answer": "Cristiano Ronaldo", "points": 30},
+      {"answer": "Lionel Messi", "points": 25},
+      {"answer": "Sergio Ramos", "points": 20},
+      {"answer": "Andrea Pirlo", "points": 15},
+      {"answer": "Zinedine Zidane", "points": 10}
+    ]
+  },
+  {
+    "question": "Nomme une compétition de jeunes (sélections ou clubs)",
+    "category": "competition",
+    "answers": [
+      {"answer": "FIFA U-20 World Cup", "points": 30},
+      {"answer": "FIFA U-17 World Cup", "points": 25},
+      {"answer": "UEFA U21 Championship", "points": 20},
+      {"answer": "Toulon Tournament", "points": 15},
+      {"answer": "UEFA Youth League", "points": 10}
+    ]
+  },
+  {
+    "question": "Nomme un ancien grand joueur du Portugal",
+    "category": "player",
+    "answers": [
+      {"answer": "Eusébio", "points": 30},
+      {"answer": "Luís Figo", "points": 30},
+      {"answer": "Rui Costa", "points": 15},
+      {"answer": "Pinto da Costa (non joueur)", "points": 5},
+      {"answer": "Nuno Gomes", "points": 10}
+    ]
+  },
+  {
+    "question": "Nomme un club russe connu",
+    "category": "team",
+    "answers": [
+      {"answer": "CSKA Moscou", "points": 25},
+      {"answer": "Spartak Moscou", "points": 25},
+      {"answer": "Zenit Saint-Pétersbourg", "points": 25},
+      {"answer": "Lokomotiv Moscou", "points": 15},
+      {"answer": "Rubin Kazan", "points": 10}
+    ]
+  },
+  {
+    "question": "Nomme une source majeure de revenus pour un club",
+    "category": "finance",
+    "answers": [
+      {"answer": "Droits TV", "points": 40},
+      {"answer": "Sponsoring", "points": 25},
+      {"answer": "Billetterie", "points": 15},
+      {"answer": "Merchandising", "points": 10},
+      {"answer": "Transferts", "points": 10}
+    ]
+  },
+  {
+    "question": "Nomme un joueur brésilien célèbre actuel ou récent",
+    "category": "player",
+    "answers": [
+      {"answer": "Neymar", "points": 30},
+      {"answer": "Vinícius Júnior", "points": 25},
+      {"answer": "Rodrygo", "points": 20},
+      {"answer": "Gabriel Jesus", "points": 15},
+      {"answer": "Philippe Coutinho", "points": 10}
+    ]
+  },
+  {
+    "question": "Nomme un joueur tunisien célèbre",
+    "category": "player",
+    "answers": [
+      {"answer": "Wahbi Khazri", "points": 25},
+      {"answer": "Aymen Abdennour", "points": 20},
+      {"answer": "Hatem Trabelsi", "points": 20},
+      {"answer": "Youssef Msakni", "points": 20},
+      {"answer": "Ali Maâloul", "points": 15}
+    ]
+  },
+  {
+    "question": "Nomme un pays qui a déjà organisé l'Euro",
+    "category": "country",
+    "answers": [
+      {"answer": "France", "points": 25},
+      {"answer": "Allemagne", "points": 20},
+      {"answer": "Italie", "points": 20},
+      {"answer": "Espagne", "points": 20},
+      {"answer": "Portugal", "points": 15}
+    ]
+  },
+  {
+    "question": "Nomme un joueur ayant remporté la Coupe du Monde",
+    "category": "player",
+    "answers": [
+      {"answer": "Pelé", "points": 30},
+      {"answer": "Zinédine Zidane", "points": 25},
+      {"answer": "Kylian Mbappé", "points": 20},
+      {"answer": "Diego Maradona", "points": 15},
+      {"answer": "Mario Götze", "points": 10}
+    ]
+  },
+  {
+    "question": "Nomme un club ayant une grande académie de jeunes",
+    "category": "team",
+    "answers": [
+      {"answer": "FC Barcelona (La Masia)", "points": 30},
+      {"answer": "Ajax Amsterdam", "points": 30},
+      {"answer": "Sporting CP", "points": 15},
+      {"answer": "Santos FC", "points": 15},
+      {"answer": "SL Benfica", "points": 10}
+    ]
+  },
+  {
+    "question": "Nomme une innovation technologique utilisée dans le football",
+    "category": "technology",
+    "answers": [
+      {"answer": "VAR", "points": 50},
+      {"answer": "Goal-line technology", "points": 20},
+      {"answer": "Analyse vidéo", "points": 15},
+      {"answer": "GPS d'entraînement", "points": 10},
+      {"answer": "Données de performance", "points": 5}
+    ]
+  },
+  {
+    "question": "Nomme un large come-back célèbre (match ou finale)",
+    "category": "comeback",
+    "answers": [
+      {"answer": "Liverpool vs Milan (2005)", "points": 30},
+      {"answer": "Barça vs PSG (2017, 6-1)", "points": 25},
+      {"answer": "Manchester United vs Bayern (1999 finale)", "points": 20},
+      {"answer": "France vs Allemagne (révélations historiques)", "points": 15},
+      {"answer": "Ajax remontées historiques", "points": 10}
+    ]
+  }
+]

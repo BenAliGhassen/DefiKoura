@@ -1,5 +1,5 @@
 import data from './Questions.json';
-
+import DataFam from './FamillyFeudQs.json'
 
 
 export const agent =()=>{
@@ -34,4 +34,23 @@ while (i < 5){
 
 
   return table
+}
+
+export const AgentFamilly =()=>{
+var table = []
+var i = 0
+while (i < 3){
+    let nb = Math.floor(Math.random() * 50)
+    if(!table.includes(nb)){
+        table.push(nb)
+        i++
+    }
+}
+
+const questions = table
+  .slice(0, 3)
+  .map(id => DataFam[id]);
+
+  return questions
+
 }

@@ -117,6 +117,7 @@ const handleReponse = ()=>{
       setQnumber={setQnumber} 
       rep={players[Qnumber]}
       guess={ptry}
+      timeCount={30}
       />
 
   <div className="mb-5">
@@ -145,7 +146,7 @@ const handleReponse = ()=>{
      joueur2={joueur2}
     />
 
-  <ButtonComp text={"Next"} onClick={()=>{ToRound2(scoreJ1,scoreJ2,navigate,"/")}} />
+  <ButtonComp text={"Next"} onClick={()=>{ToRound2(scoreJ1,scoreJ2,navigate,"/RoundThree")}} />
   <ButtonBack text={<RiArrowGoBackFill />} onClick={RemoveItems} />
   </div>
   }

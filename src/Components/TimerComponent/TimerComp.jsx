@@ -3,9 +3,9 @@ import './TimerCss.css'
 import { ResetTimerAudio } from '../../Functions/TimerAudioManager';
 import { Faux } from '../../Alerts/FalseAlert';
 
-function TimerComp({Qnumber,ptry,setRep,setQnumber,rep,guess}) {
+function TimerComp({Qnumber,ptry,setRep,setQnumber,rep,guess,timeCount}) {
   
-  const [time, setTime] = useState(30);
+  const [time, setTime] = useState(timeCount);
 
 
 
@@ -25,9 +25,11 @@ useEffect(() => {
 useEffect(() => {
   if (time === 0 && Qnumber < 6) {
    setQnumber(prev => prev + 1);
-    setTime(30);
-    Faux(rep)
-    ResetTimerAudio()
+    setTime(timeCount);
+    if(timeCount !==60){
+      ResetTimerAudio()
+      Faux(rep)
+    } 
     setRep("");
   }
 // eslint-disable-next-line react-hooks/exhaustive-deps
@@ -37,9 +39,9 @@ useEffect(() => {
 
  useEffect(()=>{
    if (Qnumber < 6 && ptry > 0) {
-      ResetTimerAudio()
+      if(timeCount !==60) ResetTimerAudio()
       setTimeout(() => {
-      setTime(30);
+      setTime(timeCount);
       setQnumber(prev => prev + 1);
       setRep("")
       }, 3700);
@@ -54,7 +56,7 @@ useEffect(()=>{
 },[guess])
 
 
-  const widthPercent = (time / 30) * 100;
+  const widthPercent = (time / timeCount) * 100;
 
   return (
     <div className='timer mx-auto mt-5 mb-5'>

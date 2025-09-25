@@ -84,6 +84,7 @@ useEffect(() => {
       setQnumber={setQnumber}
       rep={Questions[Qnumber]?.answer}
       guess={2}
+      timeCount={30}
       />
       <QustionComp question={Questions[Qnumber]?.question || ""} />
       <AutoComp 
